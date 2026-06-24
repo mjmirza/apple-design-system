@@ -1,0 +1,21 @@
+# Contents of bezels/Bezel-iMac-M4.dmg  (file names only — Apple Inc. property)
+# source: https://developer.apple.com/design/resources/
+
+/tmp/ads_mnt/dmg.xwNCXv
+/tmp/ads_mnt/dmg.xwNCXv/Apple Design Resources License.rtf
+/tmp/ads_mnt/dmg.xwNCXv/Photoshop
+/tmp/ads_mnt/dmg.xwNCXv/Photoshop/iMac M4 24-inch Blue.psd
+/tmp/ads_mnt/dmg.xwNCXv/Photoshop/iMac M4 24-inch Green.psd
+/tmp/ads_mnt/dmg.xwNCXv/Photoshop/iMac M4 24-inch Orange.psd
+/tmp/ads_mnt/dmg.xwNCXv/Photoshop/iMac M4 24-inch Pink.psd
+/tmp/ads_mnt/dmg.xwNCXv/Photoshop/iMac M4 24-inch Purple.psd
+/tmp/ads_mnt/dmg.xwNCXv/Photoshop/iMac M4 24-inch Silver.psd
+/tmp/ads_mnt/dmg.xwNCXv/Photoshop/iMac M4 24-inch Yellow.psd
+/tmp/ads_mnt/dmg.xwNCXv/PNG
+/tmp/ads_mnt/dmg.xwNCXv/PNG/iMac M4 24-inch Blue.png
+/tmp/ads_mnt/dmg.xwNCXv/PNG/iMac M4 24-inch Green.png
+/tmp/ads_mnt/dmg.xwNCXv/PNG/iMac M4 24-inch Orange.png
+/tmp/ads_mnt/dmg.xwNCXv/PNG/iMac M4 24-inch Pink.png
+/tmp/ads_mnt/dmg.xwNCXv/PNG/iMac M4 24-inch Purple.png
+/tmp/ads_mnt/dmg.xwNCXv/PNG/iMac M4 24-inch Silver.png
+/tmp/ads_mnt/dmg.xwNCXv/PNG/iMac M4 24-inch Yellow.png

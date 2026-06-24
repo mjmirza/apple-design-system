@@ -1,0 +1,5 @@
+# Contents of fonts/SF-Georgian.dmg  (file names only — Apple Inc. property)
+# source: https://developer.apple.com/design/resources/
+
+/tmp/ads_mnt/dmg.esxma9
+/tmp/ads_mnt/dmg.esxma9/SF Georgian Fonts.pkg

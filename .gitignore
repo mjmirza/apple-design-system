@@ -1,0 +1,19 @@
+# Never publish the agent's private config (enforced globally).
+.claude/
+
+# =============================================================================
+# LEGAL BOUNDARY. Apple's binary design assets are NEVER committed here.
+# This repository re-hosts NOTHING of Apple's. The assets/ folder is populated
+# LOCALLY by running tools/fetch-assets.sh, which downloads each file DIRECTLY
+# from Apple's own servers. Every asset is the property of Apple Inc.
+# See CREDITS.md and NOTICE.
+# =============================================================================
+assets/
+tools/fetch.log
+tools/enumerate.log
+
+# macOS / editor cruft
+.DS_Store
+*.swp
+.idea/
+.vscode/

@@ -1,0 +1,42 @@
+# Contents of glyphs/Glyph-Add-Apple-Watch-Face.dmg  (file names only — Apple Inc. property)
+# source: https://developer.apple.com/design/resources/
+
+/tmp/ads_mnt/dmg.yzmcrm
+/tmp/ads_mnt/dmg.yzmcrm/Assets
+/tmp/ads_mnt/dmg.yzmcrm/Assets/PDF
+/tmp/ads_mnt/dmg.yzmcrm/Assets/PDF/Symbol and Text - Dark@1x.pdf
+/tmp/ads_mnt/dmg.yzmcrm/Assets/PDF/Symbol and Text - Light@1x.pdf
+/tmp/ads_mnt/dmg.yzmcrm/Assets/PDF/Symbol-only - Large - Dark@1x.pdf
+/tmp/ads_mnt/dmg.yzmcrm/Assets/PDF/Symbol-only - Large - Light@1x.pdf
+/tmp/ads_mnt/dmg.yzmcrm/Assets/PDF/Symbol-only - Small - Dark@1x.pdf
+/tmp/ads_mnt/dmg.yzmcrm/Assets/PDF/Symbol-only - Small - Light@1x.pdf
+/tmp/ads_mnt/dmg.yzmcrm/Assets/PNG
+/tmp/ads_mnt/dmg.yzmcrm/Assets/PNG/@1x
+/tmp/ads_mnt/dmg.yzmcrm/Assets/PNG/@1x/Symbol and Text - Dark.png
+/tmp/ads_mnt/dmg.yzmcrm/Assets/PNG/@1x/Symbol and Text - Light.png
+/tmp/ads_mnt/dmg.yzmcrm/Assets/PNG/@1x/Symbol-only - Large - Dark.png
+/tmp/ads_mnt/dmg.yzmcrm/Assets/PNG/@1x/Symbol-only - Large - Light.png
+/tmp/ads_mnt/dmg.yzmcrm/Assets/PNG/@1x/Symbol-only - Small - Dark.png
+/tmp/ads_mnt/dmg.yzmcrm/Assets/PNG/@1x/Symbol-only - Small - Light.png
+/tmp/ads_mnt/dmg.yzmcrm/Assets/PNG/@2x
+/tmp/ads_mnt/dmg.yzmcrm/Assets/PNG/@2x/Symbol and Text - Dark@2x.png
+/tmp/ads_mnt/dmg.yzmcrm/Assets/PNG/@2x/Symbol and Text - Light@2x.png
+/tmp/ads_mnt/dmg.yzmcrm/Assets/PNG/@2x/Symbol-only - Large - Dark@2x.png
+/tmp/ads_mnt/dmg.yzmcrm/Assets/PNG/@2x/Symbol-only - Large - Light@2x.png
+/tmp/ads_mnt/dmg.yzmcrm/Assets/PNG/@2x/Symbol-only - Small - Dark@2x.png
+/tmp/ads_mnt/dmg.yzmcrm/Assets/PNG/@2x/Symbol-only - Small - Light@3x.png
+/tmp/ads_mnt/dmg.yzmcrm/Assets/PNG/@3x
+/tmp/ads_mnt/dmg.yzmcrm/Assets/PNG/@3x/Symbol and Text - Dark@3x.png
+/tmp/ads_mnt/dmg.yzmcrm/Assets/PNG/@3x/Symbol and Text - Light@3x.png
+/tmp/ads_mnt/dmg.yzmcrm/Assets/PNG/@3x/Symbol-only - Large - Dark@3x.png
+/tmp/ads_mnt/dmg.yzmcrm/Assets/PNG/@3x/Symbol-only - Large - Light@3x.png
+/tmp/ads_mnt/dmg.yzmcrm/Assets/PNG/@3x/Symbol-only - Small - Dark@3x.png
+/tmp/ads_mnt/dmg.yzmcrm/Assets/PNG/@3x/Symbol-only - Small - Light@2x.png
+/tmp/ads_mnt/dmg.yzmcrm/Assets/SVG
+/tmp/ads_mnt/dmg.yzmcrm/Assets/SVG/Symbol and Text - Dark@1x.svg
+/tmp/ads_mnt/dmg.yzmcrm/Assets/SVG/Symbol and Text - Light@1x.svg
+/tmp/ads_mnt/dmg.yzmcrm/Assets/SVG/Symbol-only - Large - Dark@1x.svg
+/tmp/ads_mnt/dmg.yzmcrm/Assets/SVG/Symbol-only - Large - Light@1x.svg
+/tmp/ads_mnt/dmg.yzmcrm/Assets/SVG/Symbol-only - Small - Dark@1x.svg
+/tmp/ads_mnt/dmg.yzmcrm/Assets/SVG/Symbol-only - Small - Light@1x.svg
+/tmp/ads_mnt/dmg.yzmcrm/Developer Licence Agreement for Add Apple Watch Face.rtf

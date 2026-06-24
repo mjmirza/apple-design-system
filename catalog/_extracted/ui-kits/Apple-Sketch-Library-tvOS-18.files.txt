@@ -1,0 +1,8 @@
+# Contents of ui-kits/Apple-Sketch-Library-tvOS-18.dmg  (file names only — Apple Inc. property)
+# source: https://developer.apple.com/design/resources/
+
+/tmp/ads_mnt/dmg.bjkIgc
+/tmp/ads_mnt/dmg.bjkIgc/Apple Design Resources License.rtf
+/tmp/ads_mnt/dmg.bjkIgc/Apple tvOS UI.sketch
+/tmp/ads_mnt/dmg.bjkIgc/Download SF Symbols.webloc
+/tmp/ads_mnt/dmg.bjkIgc/Libraries

@@ -1,0 +1,32 @@
+NOTICE
+======
+
+All Apple design resources referenced or downloaded through this project —
+UI kits, templates, product bezels, glyphs, icons, the San Francisco and New
+York font families, SF Symbols, and every other asset — are the property of
+Apple Inc. and/or its licensors. They are NOT the property of this project or
+its authors.
+
+This repository does the following and ONLY the following:
+
+  1. DOCUMENTS the resources Apple publishes (names, structure, usage, and the
+     official source links). Documentation, naming, and usage notes are the
+     original work of this project's authors.
+
+  2. FETCHES those resources, on the user's own machine, DIRECTLY from Apple's
+     own servers, via tools/fetch-assets.sh.
+
+This repository does NOT host, mirror, embed, bundle, or redistribute any Apple
+asset. The downloaded files live only in the local, git-ignored assets/ folder.
+
+Each downloaded asset is governed by the license terms Apple provides with it
+(frequently a license file bundled inside the download). You must read and
+follow those terms. This project neither restates, alters, waives, nor grants
+any rights to Apple's materials. When in doubt, consult:
+
+  - Apple Design Resources:  https://developer.apple.com/design/resources/
+  - Apple Developer Agreements & Guidelines:  https://developer.apple.com/terms/
+  - Apple Trademark guidelines:  https://www.apple.com/legal/intellectual-property/
+
+Apple, the Apple logo, San Francisco, SF Symbols, Liquid Glass, and the names
+of Apple products and technologies are trademarks of Apple Inc.

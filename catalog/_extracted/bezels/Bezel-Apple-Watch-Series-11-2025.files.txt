@@ -1,0 +1,103 @@
+# Contents of bezels/Bezel-Apple-Watch-Series-11-2025.dmg  (file names only — Apple Inc. property)
+# source: https://developer.apple.com/design/resources/
+
+/tmp/ads_mnt/dmg.ObO5cs
+/tmp/ads_mnt/dmg.ObO5cs/Apple Design Resources License.rtf
+/tmp/ads_mnt/dmg.ObO5cs/Photoshop
+/tmp/ads_mnt/dmg.ObO5cs/Photoshop/Magnetic Link
+/tmp/ads_mnt/dmg.ObO5cs/Photoshop/Magnetic Link/Apple Watch S11 - 42mm - Titanium Gold + Magnetic Link Sage Gray.psd
+/tmp/ads_mnt/dmg.ObO5cs/Photoshop/Magnetic Link/Apple Watch S11 - 42mm - Titanium Natural + Magnetic Link Caramel.psd
+/tmp/ads_mnt/dmg.ObO5cs/Photoshop/Magnetic Link/Apple Watch S11 - 42mm - Titanium Slate + Magnetic Link Navy.psd
+/tmp/ads_mnt/dmg.ObO5cs/Photoshop/Magnetic Link/Apple Watch S11 - 46mm - Titanium Gold + Magnetic Link Sage Gray.psd
+/tmp/ads_mnt/dmg.ObO5cs/Photoshop/Magnetic Link/Apple Watch S11 - 46mm - Titanium Natural + Magnetic Link Caramel.psd
+/tmp/ads_mnt/dmg.ObO5cs/Photoshop/Magnetic Link/Apple Watch S11 - 46mm - Titanium Slate + Magnetic Link Navy.psd
+/tmp/ads_mnt/dmg.ObO5cs/Photoshop/Milanese Loop
+/tmp/ads_mnt/dmg.ObO5cs/Photoshop/Milanese Loop/Apple Watch S11 - 42mm - Titanium Gold + Milanese Loop.psd
+/tmp/ads_mnt/dmg.ObO5cs/Photoshop/Milanese Loop/Apple Watch S11 - 42mm - Titanium Natural + Milanese Loop.psd
+/tmp/ads_mnt/dmg.ObO5cs/Photoshop/Milanese Loop/Apple Watch S11 - 42mm - Titanium Slate + Milanese Loop.psd
+/tmp/ads_mnt/dmg.ObO5cs/Photoshop/Milanese Loop/Apple Watch S11 - 46mm - Titanium Gold + Milanese Loop.psd
+/tmp/ads_mnt/dmg.ObO5cs/Photoshop/Milanese Loop/Apple Watch S11 - 46mm - Titanium Natural + Milanese Loop.psd
+/tmp/ads_mnt/dmg.ObO5cs/Photoshop/Milanese Loop/Apple Watch S11 - 46mm - Titanium Slate + Milanese Loop.psd
+/tmp/ads_mnt/dmg.ObO5cs/Photoshop/Sport Band
+/tmp/ads_mnt/dmg.ObO5cs/Photoshop/Sport Band/Apple Watch S11 - 42mm - Aluminum Jet Black + Sport Band Black.psd
+/tmp/ads_mnt/dmg.ObO5cs/Photoshop/Sport Band/Apple Watch S11 - 42mm - Aluminum Rose Gold + Sport Band Light Blush.psd
+/tmp/ads_mnt/dmg.ObO5cs/Photoshop/Sport Band/Apple Watch S11 - 42mm - Aluminum Silver + Sport Band Neon Yellow.psd
+/tmp/ads_mnt/dmg.ObO5cs/Photoshop/Sport Band/Apple Watch S11 - 42mm - Aluminum Silver + Sport Band Purple Fog.psd
+/tmp/ads_mnt/dmg.ObO5cs/Photoshop/Sport Band/Apple Watch S11 - 42mm - Aluminum Space Gray + Sport Band Anchor Blue.psd
+/tmp/ads_mnt/dmg.ObO5cs/Photoshop/Sport Band/Apple Watch S11 - 42mm - Aluminum Space Gray + Sport Band Black.psd
+/tmp/ads_mnt/dmg.ObO5cs/Photoshop/Sport Band/Apple Watch S11 - 42mm - Titanium Gold + Sport Band Light Blush.psd
+/tmp/ads_mnt/dmg.ObO5cs/Photoshop/Sport Band/Apple Watch S11 - 42mm - Titanium Gold + Sport Band Purple Fog.psd
+/tmp/ads_mnt/dmg.ObO5cs/Photoshop/Sport Band/Apple Watch S11 - 42mm - Titanium Natural + Sport Band Stone Gray.psd
+/tmp/ads_mnt/dmg.ObO5cs/Photoshop/Sport Band/Apple Watch S11 - 42mm - Titanium Slate + Sport Band Black.psd
+/tmp/ads_mnt/dmg.ObO5cs/Photoshop/Sport Band/Apple Watch S11 - 46mm - Aluminum Jet Black + Sport Band Black.psd
+/tmp/ads_mnt/dmg.ObO5cs/Photoshop/Sport Band/Apple Watch S11 - 46mm - Aluminum Rose Gold + Sport Band Light Blush.psd
+/tmp/ads_mnt/dmg.ObO5cs/Photoshop/Sport Band/Apple Watch S11 - 46mm - Aluminum Silver + Sport Band Neon Yellow.psd
+/tmp/ads_mnt/dmg.ObO5cs/Photoshop/Sport Band/Apple Watch S11 - 46mm - Aluminum Silver + Sport Band Purple Fog.psd
+/tmp/ads_mnt/dmg.ObO5cs/Photoshop/Sport Band/Apple Watch S11 - 46mm - Aluminum Space Gray + Sport Band Anchor Blue.psd
+/tmp/ads_mnt/dmg.ObO5cs/Photoshop/Sport Band/Apple Watch S11 - 46mm - Aluminum Space Gray + Sport Band Black.psd
+/tmp/ads_mnt/dmg.ObO5cs/Photoshop/Sport Band/Apple Watch S11 - 46mm - Titanium Gold + Sport Band Light Blush.psd
+/tmp/ads_mnt/dmg.ObO5cs/Photoshop/Sport Band/Apple Watch S11 - 46mm - Titanium Gold + Sport Band Purple Fog.psd
+/tmp/ads_mnt/dmg.ObO5cs/Photoshop/Sport Band/Apple Watch S11 - 46mm - Titanium Natural + Sport Band Stone Gray.psd
+/tmp/ads_mnt/dmg.ObO5cs/Photoshop/Sport Band/Apple Watch S11 - 46mm - Titanium Slate + Sport Band Black.psd
+/tmp/ads_mnt/dmg.ObO5cs/Photoshop/Sport Loop
+/tmp/ads_mnt/dmg.ObO5cs/Photoshop/Sport Loop/Apple Watch S11 - 42mm - Aluminum Jet Black + Sport Loop Dark Gray.psd
+/tmp/ads_mnt/dmg.ObO5cs/Photoshop/Sport Loop/Apple Watch S11 - 42mm - Aluminum Rose Gold + Sport Loop Purple Fog.psd
+/tmp/ads_mnt/dmg.ObO5cs/Photoshop/Sport Loop/Apple Watch S11 - 42mm - Aluminum Silver + Sport Loop Forest.psd
+/tmp/ads_mnt/dmg.ObO5cs/Photoshop/Sport Loop/Apple Watch S11 - 42mm - Aluminum Silver + Sport Loop Neon Yellow.psd
+/tmp/ads_mnt/dmg.ObO5cs/Photoshop/Sport Loop/Apple Watch S11 - 42mm - Aluminum Space Gray + Sport Loop Anchor Blue.psd
+/tmp/ads_mnt/dmg.ObO5cs/Photoshop/Sport Loop/Apple Watch S11 - 42mm - Aluminum Space Gray + Sport Loop Forest.psd
+/tmp/ads_mnt/dmg.ObO5cs/Photoshop/Sport Loop/Apple Watch S11 - 46mm - Aluminum Jet Black + Sport Loop Dark Gray.psd
+/tmp/ads_mnt/dmg.ObO5cs/Photoshop/Sport Loop/Apple Watch S11 - 46mm - Aluminum Rose Gold + Sport Loop Purple Fog.psd
+/tmp/ads_mnt/dmg.ObO5cs/Photoshop/Sport Loop/Apple Watch S11 - 46mm - Aluminum Silver + Sport Loop Forest.psd
+/tmp/ads_mnt/dmg.ObO5cs/Photoshop/Sport Loop/Apple Watch S11 - 46mm - Aluminum Silver + Sport Loop Neon Yellow.psd
+/tmp/ads_mnt/dmg.ObO5cs/Photoshop/Sport Loop/Apple Watch S11 - 46mm - Aluminum Space Gray + Sport Loop Anchor Blue.psd
+/tmp/ads_mnt/dmg.ObO5cs/Photoshop/Sport Loop/Apple Watch S11 - 46mm - Aluminum Space Gray + Sport Loop Forest.psd
+/tmp/ads_mnt/dmg.ObO5cs/PNG
+/tmp/ads_mnt/dmg.ObO5cs/PNG/Magnetic Link
+/tmp/ads_mnt/dmg.ObO5cs/PNG/Magnetic Link/Apple Watch S11 - 42mm - Titanium Gold + Magnetic Link Sage Gray.png
+/tmp/ads_mnt/dmg.ObO5cs/PNG/Magnetic Link/Apple Watch S11 - 42mm - Titanium Natural + Magnetic Link Caramel.png
+/tmp/ads_mnt/dmg.ObO5cs/PNG/Magnetic Link/Apple Watch S11 - 42mm - Titanium Slate + Magnetic Link Navy.png
+/tmp/ads_mnt/dmg.ObO5cs/PNG/Magnetic Link/Apple Watch S11 - 46mm - Titanium Gold + Magnetic Link Sage Gray.png
+/tmp/ads_mnt/dmg.ObO5cs/PNG/Magnetic Link/Apple Watch S11 - 46mm - Titanium Natural + Magnetic Link Caramel.png
+/tmp/ads_mnt/dmg.ObO5cs/PNG/Magnetic Link/Apple Watch S11 - 46mm - Titanium Slate + Magnetic Link Navy.png
+/tmp/ads_mnt/dmg.ObO5cs/PNG/Milanese Loop
+/tmp/ads_mnt/dmg.ObO5cs/PNG/Milanese Loop/Apple Watch S11 - 42mm - Titanium Gold + Milanese Loop.png
+/tmp/ads_mnt/dmg.ObO5cs/PNG/Milanese Loop/Apple Watch S11 - 42mm - Titanium Natural + Milanese Loop.png
+/tmp/ads_mnt/dmg.ObO5cs/PNG/Milanese Loop/Apple Watch S11 - 42mm - Titanium Slate + Milanese Loop.png
+/tmp/ads_mnt/dmg.ObO5cs/PNG/Milanese Loop/Apple Watch S11 - 46mm - Titanium Gold + Milanese Loop.png
+/tmp/ads_mnt/dmg.ObO5cs/PNG/Milanese Loop/Apple Watch S11 - 46mm - Titanium Natural + Milanese Loop.png
+/tmp/ads_mnt/dmg.ObO5cs/PNG/Milanese Loop/Apple Watch S11 - 46mm - Titanium Slate + Milanese Loop.png
+/tmp/ads_mnt/dmg.ObO5cs/PNG/Sport Band
+/tmp/ads_mnt/dmg.ObO5cs/PNG/Sport Band/Apple Watch S11 - 42mm - Aluminum Jet Black + Sport Band Black.png
+/tmp/ads_mnt/dmg.ObO5cs/PNG/Sport Band/Apple Watch S11 - 42mm - Aluminum Rose Gold + Sport Band Light Blush.png
+/tmp/ads_mnt/dmg.ObO5cs/PNG/Sport Band/Apple Watch S11 - 42mm - Aluminum Silver + Sport Band Neon Yellow.png
+/tmp/ads_mnt/dmg.ObO5cs/PNG/Sport Band/Apple Watch S11 - 42mm - Aluminum Silver + Sport Band Purple Fog.png
+/tmp/ads_mnt/dmg.ObO5cs/PNG/Sport Band/Apple Watch S11 - 42mm - Aluminum Space Gray + Sport Band Anchor Blue.png
+/tmp/ads_mnt/dmg.ObO5cs/PNG/Sport Band/Apple Watch S11 - 42mm - Aluminum Space Gray + Sport Band Black.png
+/tmp/ads_mnt/dmg.ObO5cs/PNG/Sport Band/Apple Watch S11 - 42mm - Titanium Gold + Sport Band Light Blush.png
+/tmp/ads_mnt/dmg.ObO5cs/PNG/Sport Band/Apple Watch S11 - 42mm - Titanium Gold + Sport Band Purple Fog.png
+/tmp/ads_mnt/dmg.ObO5cs/PNG/Sport Band/Apple Watch S11 - 42mm - Titanium Natural + Sport Band Stone Gray.png
+/tmp/ads_mnt/dmg.ObO5cs/PNG/Sport Band/Apple Watch S11 - 42mm - Titanium Slate + Sport Band Black.png
+/tmp/ads_mnt/dmg.ObO5cs/PNG/Sport Band/Apple Watch S11 - 46mm - Aluminum Jet Black + Sport Band Black.png
+/tmp/ads_mnt/dmg.ObO5cs/PNG/Sport Band/Apple Watch S11 - 46mm - Aluminum Rose Gold + Sport Band Light Blush.png
+/tmp/ads_mnt/dmg.ObO5cs/PNG/Sport Band/Apple Watch S11 - 46mm - Aluminum Silver + Sport Band Neon Yellow.png
+/tmp/ads_mnt/dmg.ObO5cs/PNG/Sport Band/Apple Watch S11 - 46mm - Aluminum Silver + Sport Band Purple Fog.png
+/tmp/ads_mnt/dmg.ObO5cs/PNG/Sport Band/Apple Watch S11 - 46mm - Aluminum Space Gray + Sport Band Anchor Blue.png
+/tmp/ads_mnt/dmg.ObO5cs/PNG/Sport Band/Apple Watch S11 - 46mm - Aluminum Space Gray + Sport Band Black.png
+/tmp/ads_mnt/dmg.ObO5cs/PNG/Sport Band/Apple Watch S11 - 46mm - Titanium Gold + Sport Band Light Blush.png
+/tmp/ads_mnt/dmg.ObO5cs/PNG/Sport Band/Apple Watch S11 - 46mm - Titanium Gold + Sport Band Purple Fog.png
+/tmp/ads_mnt/dmg.ObO5cs/PNG/Sport Band/Apple Watch S11 - 46mm - Titanium Natural + Sport Band Stone Gray.png
+/tmp/ads_mnt/dmg.ObO5cs/PNG/Sport Band/Apple Watch S11 - 46mm - Titanium Slate + Sport Band Black.png
+/tmp/ads_mnt/dmg.ObO5cs/PNG/Sport Loop
+/tmp/ads_mnt/dmg.ObO5cs/PNG/Sport Loop/Apple Watch S11 - 42mm - Aluminum Jet Black + Sport Loop Dark Gray.png
+/tmp/ads_mnt/dmg.ObO5cs/PNG/Sport Loop/Apple Watch S11 - 42mm - Aluminum Rose Gold + Sport Loop Purple Fog.png
+/tmp/ads_mnt/dmg.ObO5cs/PNG/Sport Loop/Apple Watch S11 - 42mm - Aluminum Silver + Sport Loop Forest.png
+/tmp/ads_mnt/dmg.ObO5cs/PNG/Sport Loop/Apple Watch S11 - 42mm - Aluminum Silver + Sport Loop Neon Yellow.png
+/tmp/ads_mnt/dmg.ObO5cs/PNG/Sport Loop/Apple Watch S11 - 42mm - Aluminum Space Gray + Sport Loop Anchor Blue.png
+/tmp/ads_mnt/dmg.ObO5cs/PNG/Sport Loop/Apple Watch S11 - 42mm - Aluminum Space Gray + Sport Loop Forest.png
+/tmp/ads_mnt/dmg.ObO5cs/PNG/Sport Loop/Apple Watch S11 - 46mm - Aluminum Jet Black + Sport Loop Dark Gray.png
+/tmp/ads_mnt/dmg.ObO5cs/PNG/Sport Loop/Apple Watch S11 - 46mm - Aluminum Rose Gold + Sport Loop Purple Fog.png
+/tmp/ads_mnt/dmg.ObO5cs/PNG/Sport Loop/Apple Watch S11 - 46mm - Aluminum Silver + Sport Loop Forest.png
+/tmp/ads_mnt/dmg.ObO5cs/PNG/Sport Loop/Apple Watch S11 - 46mm - Aluminum Silver + Sport Loop Neon Yellow.png
+/tmp/ads_mnt/dmg.ObO5cs/PNG/Sport Loop/Apple Watch S11 - 46mm - Aluminum Space Gray + Sport Loop Anchor Blue.png
+/tmp/ads_mnt/dmg.ObO5cs/PNG/Sport Loop/Apple Watch S11 - 46mm - Aluminum Space Gray + Sport Loop Forest.png

@@ -1,0 +1,15 @@
+# Contents of bezels/Bezel-MacBook-Pro-M5.dmg  (file names only — Apple Inc. property)
+# source: https://developer.apple.com/design/resources/
+
+/tmp/ads_mnt/dmg.5usKzv
+/tmp/ads_mnt/dmg.5usKzv/Apple Design Resources License.rtf
+/tmp/ads_mnt/dmg.5usKzv/Photoshop
+/tmp/ads_mnt/dmg.5usKzv/Photoshop/MacBook Pro M5 14-inch Silver.psd
+/tmp/ads_mnt/dmg.5usKzv/Photoshop/MacBook Pro M5 14-inch Space Black.psd
+/tmp/ads_mnt/dmg.5usKzv/Photoshop/MacBook Pro M5 16-inch Silver.psd
+/tmp/ads_mnt/dmg.5usKzv/Photoshop/MacBook Pro M5 16-inch Space Black.psd
+/tmp/ads_mnt/dmg.5usKzv/PNG
+/tmp/ads_mnt/dmg.5usKzv/PNG/MacBook Pro M5 14-inch Silver.png
+/tmp/ads_mnt/dmg.5usKzv/PNG/MacBook Pro M5 14-inch Space Black.png
+/tmp/ads_mnt/dmg.5usKzv/PNG/MacBook Pro M5 16-inch Silver.png
+/tmp/ads_mnt/dmg.5usKzv/PNG/MacBook Pro M5 16-inch Space Black.png

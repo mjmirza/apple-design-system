@@ -1,0 +1,920 @@
+# Sketch symbols/artboards from visionos/visionOS-2-Design-Templates-Sketch (visionOS 2 Design Templates.sketch) — names are facts
+--- Symbols (reusable components) ---
+Controls/Activity Indicator/Large
+Controls/Activity Indicator/Medium
+Controls/Activity Indicator/Small
+Controls/Buttons/Links/Hover
+Controls/Buttons/Links/Idle
+Controls/Buttons/Links/Pinch
+Controls/Buttons/Pill/Large/Disabled
+Controls/Buttons/Pill/Large/Hover
+Controls/Buttons/Pill/Large/Idle
+Controls/Buttons/Pill/Large/Idle No Background
+Controls/Buttons/Pill/Large/Selected
+Controls/Buttons/Pill/Regular/Disabled
+Controls/Buttons/Pill/Regular/Hover
+Controls/Buttons/Pill/Regular/Idle
+Controls/Buttons/Pill/Regular/Idle No Background
+Controls/Buttons/Pill/Regular/Selected
+Controls/Buttons/Pill/Small/Disabled
+Controls/Buttons/Pill/Small/Hover
+Controls/Buttons/Pill/Small/Idle
+Controls/Buttons/Pill/Small/Idle No Background
+Controls/Buttons/Pill/Small/Selected
+Controls/Buttons/Rounded Rect/Large/Disabled
+Controls/Buttons/Rounded Rect/Large/Hover
+Controls/Buttons/Rounded Rect/Large/Idle
+Controls/Buttons/Rounded Rect/Large/Idle No Background
+Controls/Buttons/Rounded Rect/Large/Selected
+Controls/Buttons/Rounded Rect/Regular/Disabled
+Controls/Buttons/Rounded Rect/Regular/Hover
+Controls/Buttons/Rounded Rect/Regular/Idle
+Controls/Buttons/Rounded Rect/Regular/Idle No Background
+Controls/Buttons/Rounded Rect/Regular/Selected
+Controls/Buttons/Rounded Rect/Small/Disabled
+Controls/Buttons/Rounded Rect/Small/Hover
+Controls/Buttons/Rounded Rect/Small/Idle
+Controls/Buttons/Rounded Rect/Small/Idle No Background
+Controls/Buttons/Rounded Rect/Small/Selected
+Controls/Buttons/Symbol + Label/Large/Disabled
+Controls/Buttons/Symbol + Label/Large/Hover
+Controls/Buttons/Symbol + Label/Large/Idle
+Controls/Buttons/Symbol + Label/Large/Selected
+Controls/Buttons/Symbol + Label/Regular/Disabled
+Controls/Buttons/Symbol + Label/Regular/Hover
+Controls/Buttons/Symbol + Label/Regular/Idle
+Controls/Buttons/Symbol + Label/Regular/Selected
+Controls/Buttons/Symbol + Label/Small/Disabled
+Controls/Buttons/Symbol + Label/Small/Hover
+Controls/Buttons/Symbol + Label/Small/Idle
+Controls/Buttons/Symbol + Label/Small/Selected
+Controls/Buttons/Symbol/Extra Large/Disabled
+Controls/Buttons/Symbol/Extra Large/Hover
+Controls/Buttons/Symbol/Extra Large/Idle
+Controls/Buttons/Symbol/Extra Large/Idle No Background
+Controls/Buttons/Symbol/Extra Large/Selected
+Controls/Buttons/Symbol/Extra Large/Tooltip
+Controls/Buttons/Symbol/Large/Disabled
+Controls/Buttons/Symbol/Large/Hover
+Controls/Buttons/Symbol/Large/Idle
+Controls/Buttons/Symbol/Large/Idle No Background
+Controls/Buttons/Symbol/Large/Selected
+Controls/Buttons/Symbol/Large/Tooptip
+Controls/Buttons/Symbol/Mini/Disabled
+Controls/Buttons/Symbol/Mini/Hover
+Controls/Buttons/Symbol/Mini/Idle
+Controls/Buttons/Symbol/Mini/Idle No Background
+Controls/Buttons/Symbol/Mini/Selected
+Controls/Buttons/Symbol/Mini/Tooltip
+Controls/Buttons/Symbol/Regular/Disabled
+Controls/Buttons/Symbol/Regular/Hover
+Controls/Buttons/Symbol/Regular/Idle
+Controls/Buttons/Symbol/Regular/Idle No Background
+Controls/Buttons/Symbol/Regular/Selected
+Controls/Buttons/Symbol/Regular/Tooltip
+Controls/Buttons/Symbol/Small/Disabled
+Controls/Buttons/Symbol/Small/Hover
+Controls/Buttons/Symbol/Small/Idle
+Controls/Buttons/Symbol/Small/Idle No Background
+Controls/Buttons/Symbol/Small/Selected
+Controls/Buttons/Symbol/Small/Tooltip
+Controls/Checkboxes/Selected - Hover
+Controls/Checkboxes/Selected - IDLE
+Controls/Checkboxes/Unselected - Hover
+Controls/Checkboxes/Unselected - IDLE
+Controls/Dropdown Buttons/Disabled
+Controls/Dropdown Buttons/Hover
+Controls/Dropdown Buttons/Idle
+Controls/Dropdown Buttons/Selected
+Controls/Index Bar/Hover
+Controls/Index Bar/Idle
+Controls/Input Field/Search Field/Pill/Disabled
+Controls/Input Field/Search Field/Pill/Filled
+Controls/Input Field/Search Field/Pill/Hover
+Controls/Input Field/Search Field/Pill/Idle
+Controls/Input Field/Search Field/Pill/Look Dwell
+Controls/Input Field/Search Field/Pill/Quicktation Invoked
+Controls/Input Field/Search Field/Rounded/Disabled
+Controls/Input Field/Search Field/Rounded/Filled
+Controls/Input Field/Search Field/Rounded/Hover
+Controls/Input Field/Search Field/Rounded/Idle
+Controls/Input Field/Search Field/Rounded/Look Dwell
+Controls/Input Field/Search Field/Rounded/Quicktation Invoked
+Controls/Input Field/Search Field/x/Quicktation
+Controls/Input Field/Secure Field/Pill/Disabled
+Controls/Input Field/Secure Field/Pill/Filled
+Controls/Input Field/Secure Field/Pill/Hover
+Controls/Input Field/Secure Field/Pill/Idle
+Controls/Input Field/Secure Field/Rounded/Disabled
+Controls/Input Field/Secure Field/Rounded/Filled
+Controls/Input Field/Secure Field/Rounded/Hover
+Controls/Input Field/Secure Field/Rounded/Idle
+Controls/Input Field/Text Field/Pill/Disabled
+Controls/Input Field/Text Field/Pill/Filled
+Controls/Input Field/Text Field/Pill/Hover
+Controls/Input Field/Text Field/Pill/Idle
+Controls/Input Field/Text Field/Rounded/Disabled
+Controls/Input Field/Text Field/Rounded/Filled
+Controls/Input Field/Text Field/Rounded/Hover
+Controls/Input Field/Text Field/Rounded/Idle
+Controls/Lists/Examples/Inset Style 1
+Controls/Lists/Examples/Inset Style 2
+Controls/Lists/Examples/Inset Style Group of Ten
+Controls/Lists/Examples/Inset Style Group of Two
+Controls/Lists/Examples/Plain Style
+Controls/Lists/Examples/Plain Style With Separators
+Controls/Lists/Examples/Plain Style With Separators AZ Scrubber
+Controls/Lists/Rows/Inset Style/Backgrounds/Bottom
+Controls/Lists/Rows/Inset Style/Backgrounds/Middle
+Controls/Lists/Rows/Inset Style/Backgrounds/Single
+Controls/Lists/Rows/Inset Style/Backgrounds/Top
+Controls/Lists/Rows/Inset Style/Single Line Cell Text Only
+Controls/Lists/Rows/Inset Style/Single Line Cell with 1 Icon
+Controls/Lists/Rows/Inset Style/Single Line Cell with 2 Icons
+Controls/Lists/Rows/Inset Style/Single Line Cell with Button
+Controls/Lists/Rows/Inset Style/Single Line Cell with Checkmark
+Controls/Lists/Rows/Inset Style/Single Line Cell with Checkmark Left
+Controls/Lists/Rows/Inset Style/Single Line Cell with Chevron
+Controls/Lists/Rows/Inset Style/Single Line Cell with Delete + Icon + Reordering
+Controls/Lists/Rows/Inset Style/Single Line Cell with Delete + Reordering
+Controls/Lists/Rows/Inset Style/Single Line Cell with Icon
+Controls/Lists/Rows/Inset Style/Single Line Cell with Icon + Toggle
+Controls/Lists/Rows/Inset Style/Single Line Cell with Left Glyph + Value + Chevron
+Controls/Lists/Rows/Inset Style/Single Line Cell with Toggle
+Controls/Lists/Rows/Inset Style/Single Line Cell with Value + Chevron
+Controls/Lists/Rows/Inset Style/Text Box
+Controls/Lists/Rows/Inset Style/Two Lines + Chevron
+Controls/Lists/Rows/Inset Style/Two Lines + Icon + Glyph
+Controls/Lists/Rows/Inset Style/Two Lines + Icon + Toggle
+Controls/Lists/Rows/Inset Style/Two Lines + Icon + Value + Chevron
+Controls/Lists/Rows/Plain Style/1 Line/Hover
+Controls/Lists/Rows/Plain Style/1 Line/Idle
+Controls/Lists/Rows/Plain Style/1 Line/Pinch
+Controls/Lists/Rows/Plain Style/1 Line/Selected
+Controls/Lists/Rows/Plain Style/2 Line/Hover
+Controls/Lists/Rows/Plain Style/2 Line/Idle
+Controls/Lists/Rows/Plain Style/2 Line/Pinch
+Controls/Lists/Rows/Plain Style/2 Line/Selected
+Controls/Lists/Rows/x/Left Accessory/Checkmark + Title
+Controls/Lists/Rows/x/Left Accessory/Edit + Icon + Title
+Controls/Lists/Rows/x/Left Accessory/Edit + Title
+Controls/Lists/Rows/x/Left Accessory/Icon + Title
+Controls/Lists/Rows/x/Left Accessory/Icon + Title + Subtitle
+Controls/Lists/Rows/x/Left Accessory/Title
+Controls/Lists/Rows/x/Left Accessory/Title + Subtitle
+Controls/Lists/Rows/x/Left Accessory/x/Edit/Add
+Controls/Lists/Rows/x/Left Accessory/x/Edit/Checkmark
+Controls/Lists/Rows/x/Right Accessory/1 Symbol
+Controls/Lists/Rows/x/Right Accessory/2 Symbol
+Controls/Lists/Rows/x/Right Accessory/Additional Info
+Controls/Lists/Rows/x/Right Accessory/Checkmark
+Controls/Lists/Rows/x/Right Accessory/Chevron
+Controls/Lists/Rows/x/Right Accessory/Empty
+Controls/Lists/Rows/x/Right Accessory/Info Button
+Controls/Lists/Rows/x/Right Accessory/Reorder
+Controls/Lists/Rows/x/Right Accessory/Toggle
+Controls/Lists/Rows/x/Right Accessory/Value + Chevron
+Controls/Lists/Rows/x/Right Accessory/x/Reorder/Idle
+Controls/Lists/Section Footer
+Controls/Lists/Section Header 
+Controls/Menus/Accessory Items Menu
+Controls/Menus/Context Menu/x/Rows/Checkmark Selected + Chevron/Disabled
+Controls/Menus/Context Menu/x/Rows/Checkmark Selected + Chevron/Hover
+Controls/Menus/Context Menu/x/Rows/Checkmark Selected + Chevron/Idle
+Controls/Menus/Context Menu/x/Rows/Checkmark Selected + Chevron/Selected
+Controls/Menus/Context Menu/x/Rows/Checkmark Unselected + Chevron/Disabled
+Controls/Menus/Context Menu/x/Rows/Checkmark Unselected + Chevron/Hover
+Controls/Menus/Context Menu/x/Rows/Checkmark Unselected + Chevron/Idle
+Controls/Menus/Context Menu/x/Rows/Checkmark Unselected + Chevron/Selected
+Controls/Menus/Context Menu/x/Rows/Checkmark Unselected/Disabled
+Controls/Menus/Context Menu/x/Rows/Checkmark Unselected/Hover
+Controls/Menus/Context Menu/x/Rows/Checkmark Unselected/Idle
+Controls/Menus/Context Menu/x/Rows/Checkmark Unselected/Selected
+Controls/Menus/Context Menu/x/Rows/Chevron/Disabled
+Controls/Menus/Context Menu/x/Rows/Chevron/Hover
+Controls/Menus/Context Menu/x/Rows/Chevron/Idle
+Controls/Menus/Context Menu/x/Rows/Chevron/Selected
+Controls/Menus/Context Menu/x/Rows/Subtitle + Checkmark Selected +  Chevron/Disabled
+Controls/Menus/Context Menu/x/Rows/Subtitle + Checkmark Selected +  Chevron/Hover
+Controls/Menus/Context Menu/x/Rows/Subtitle + Checkmark Selected +  Chevron/Idle
+Controls/Menus/Context Menu/x/Rows/Subtitle + Checkmark Selected +  Chevron/Selected
+Controls/Menus/Context Menu/x/Rows/Subtitle + Checkmark Unselected +  Chevron/Disabled
+Controls/Menus/Context Menu/x/Rows/Subtitle + Checkmark Unselected +  Chevron/Hover
+Controls/Menus/Context Menu/x/Rows/Subtitle + Checkmark Unselected +  Chevron/Idle
+Controls/Menus/Context Menu/x/Rows/Subtitle + Checkmark Unselected +  Chevron/Selected
+Controls/Menus/Context Menu/x/Rows/Subtitle + Checkmark Unselected/Disabled
+Controls/Menus/Context Menu/x/Rows/Subtitle + Checkmark Unselected/Hover
+Controls/Menus/Context Menu/x/Rows/Subtitle + Checkmark Unselected/Idle
+Controls/Menus/Context Menu/x/Rows/Subtitle + Checkmark Unselected/Selected
+Controls/Menus/Context Menu/x/Rows/Subtitle/Disabled
+Controls/Menus/Context Menu/x/Rows/Subtitle/Hover
+Controls/Menus/Context Menu/x/Rows/Subtitle/Idle
+Controls/Menus/Context Menu/x/Rows/Subtitle/Selected
+Controls/Menus/Standard
+Controls/Menus/with Checkmark
+Controls/Menus/with Header
+Controls/Menus/with Inline Accessory Menu
+Controls/Menus/x/Headers/Menu Header
+Controls/Menus/x/Headers/Menu Header with Symbols
+Controls/Menus/x/Headers/Section Header
+Controls/Menus/x/Left Accessories/Checkmark Hide
+Controls/Menus/x/Left Accessories/Checkmark Show
+Controls/Menus/x/Right Accessories/Chevron Hide
+Controls/Menus/x/Right Accessories/Chevron Show
+Controls/Menus/x/Right Accessories/Icon Hide
+Controls/Menus/x/Right Accessories/Icon Show
+Controls/Menus/x/Rows/Title + Checkmark/Disabled
+Controls/Menus/x/Rows/Title + Checkmark/Hover
+Controls/Menus/x/Rows/Title + Checkmark/Idle
+Controls/Menus/x/Rows/Title + Checkmark/Selected
+Controls/Menus/x/Rows/Title + Subtitle + Checkmark/Disabled
+Controls/Menus/x/Rows/Title + Subtitle + Checkmark/Hover
+Controls/Menus/x/Rows/Title + Subtitle + Checkmark/Idle
+Controls/Menus/x/Rows/Title + Subtitle + Checkmark/Selected
+Controls/Menus/x/Rows/Title + Subtitle/Disabled
+Controls/Menus/x/Rows/Title + Subtitle/Hover
+Controls/Menus/x/Rows/Title + Subtitle/Idle
+Controls/Menus/x/Rows/Title + Subtitle/Selected
+Controls/Menus/x/Rows/Title/Disabled
+Controls/Menus/x/Rows/Title/Hover
+Controls/Menus/x/Rows/Title/Idle
+Controls/Menus/x/Rows/Title/Selected
+Controls/Navigation Bar/Default/Back Hover and Trailing Buttons
+Controls/Navigation Bar/Default/Back and Trailing Buttons
+Controls/Navigation Bar/Default/Leading and Trailing Buttons
+Controls/Navigation Bar/Default/No Header
+Controls/Navigation Bar/Default/Trailing Avatar
+Controls/Navigation Bar/Default/Trailing Buttons
+Controls/Navigation Bar/Default/Trailing Icon
+Controls/Navigation Bar/Default/Trailing Search
+Controls/Navigation Bar/Modal
+Controls/Pagination Dots/2
+Controls/Pagination Dots/3
+Controls/Pagination Dots/4
+Controls/Pagination Dots/5
+Controls/Pagination Dots/6
+Controls/Pagination Dots/7
+Controls/Pagination Dots/8
+Controls/Pagination Dots/Dot/Selected
+Controls/Pagination Dots/Dot/Unselected Default
+Controls/Pagination Dots/Dot/Unselected Medium
+Controls/Pagination Dots/Dot/Unselected Small
+Controls/Pickers/Date Picker/Hover
+Controls/Pickers/Date Picker/Idle
+Controls/Pickers/Time Picker/Hover Column Left
+Controls/Pickers/Time Picker/Hover Column Middle
+Controls/Pickers/Time Picker/Hover Column Right
+Controls/Pickers/Time Picker/Idle
+Controls/Progress Bar/On Dark Background/0%
+Controls/Progress Bar/On Dark Background/10%
+Controls/Progress Bar/On Dark Background/100%
+Controls/Progress Bar/On Dark Background/20%
+Controls/Progress Bar/On Dark Background/30%
+Controls/Progress Bar/On Dark Background/40%
+Controls/Progress Bar/On Dark Background/50%
+Controls/Progress Bar/On Dark Background/60%
+Controls/Progress Bar/On Dark Background/70%
+Controls/Progress Bar/On Dark Background/80%
+Controls/Progress Bar/On Dark Background/90%
+Controls/Progress Bar/On Light Background/0%
+Controls/Progress Bar/On Light Background/10%
+Controls/Progress Bar/On Light Background/100%
+Controls/Progress Bar/On Light Background/20%
+Controls/Progress Bar/On Light Background/30%
+Controls/Progress Bar/On Light Background/40%
+Controls/Progress Bar/On Light Background/50%
+Controls/Progress Bar/On Light Background/60%
+Controls/Progress Bar/On Light Background/70%
+Controls/Progress Bar/On Light Background/80%
+Controls/Progress Bar/On Light Background/90%
+Controls/Scroll Indicator/Hover
+Controls/Scroll Indicator/Idle
+Controls/Scroll Indicator/Pinch
+Controls/Search Token/Hover
+Controls/Search Token/Idle
+Controls/Search Token/Selected
+Controls/Section Header/Header with Eyebrow
+Controls/Section Header/Header with Subtitle
+Controls/Section Header/Standard
+Controls/Segmented Control/Default/2 Items
+Controls/Segmented Control/Default/3 Items
+Controls/Segmented Control/Default/4 Items
+Controls/Segmented Control/Default/5 Items
+Controls/Segmented Control/Default/6 Items
+Controls/Segmented Control/Disabled/2 Items
+Controls/Segmented Control/Disabled/3 Items
+Controls/Segmented Control/Disabled/4 Items
+Controls/Segmented Control/Disabled/5 Items
+Controls/Segmented Control/Disabled/6 Items
+Controls/Segmented Control/Segment Control/Disabled
+Controls/Segmented Control/Segment Control/Hover
+Controls/Segmented Control/Segment Control/Idle
+Controls/Segmented Control/Segment Control/Selected
+Controls/Separator/Hide
+Controls/Separator/Show
+Controls/Sliders/Color/Hover
+Controls/Sliders/Color/Idle
+Controls/Sliders/Color/Pinch
+Controls/Sliders/Continuous/Min Max Icon/Large/0% - Disabled
+Controls/Sliders/Continuous/Min Max Icon/Large/0% - Hover
+Controls/Sliders/Continuous/Min Max Icon/Large/0% - Idle
+Controls/Sliders/Continuous/Min Max Icon/Large/0% - Pinch
+Controls/Sliders/Continuous/Min Max Icon/Large/100% - Disabled
+Controls/Sliders/Continuous/Min Max Icon/Large/100% - Hover
+Controls/Sliders/Continuous/Min Max Icon/Large/100% - Idle
+Controls/Sliders/Continuous/Min Max Icon/Large/100% - Pinch
+Controls/Sliders/Continuous/Min Max Icon/Large/25% - Disabled
+Controls/Sliders/Continuous/Min Max Icon/Large/25% - Hover
+Controls/Sliders/Continuous/Min Max Icon/Large/25% - Idle
+Controls/Sliders/Continuous/Min Max Icon/Large/25% - Pinch
+Controls/Sliders/Continuous/Min Max Icon/Large/50% - Disabled
+Controls/Sliders/Continuous/Min Max Icon/Large/50% - Hover
+Controls/Sliders/Continuous/Min Max Icon/Large/50% - Idle
+Controls/Sliders/Continuous/Min Max Icon/Large/50% - Pinch
+Controls/Sliders/Continuous/Min Max Icon/Large/75% - Disabled
+Controls/Sliders/Continuous/Min Max Icon/Large/75% - Hover
+Controls/Sliders/Continuous/Min Max Icon/Large/75% - Idle
+Controls/Sliders/Continuous/Min Max Icon/Large/75% - Pinch
+Controls/Sliders/Continuous/Min Max Icon/Mini/0% - Disabled
+Controls/Sliders/Continuous/Min Max Icon/Mini/0% - Hover
+Controls/Sliders/Continuous/Min Max Icon/Mini/0% - Idle
+Controls/Sliders/Continuous/Min Max Icon/Mini/0% - Pinch
+Controls/Sliders/Continuous/Min Max Icon/Mini/100% - Disabled
+Controls/Sliders/Continuous/Min Max Icon/Mini/100% - Hover
+Controls/Sliders/Continuous/Min Max Icon/Mini/100% - Idle
+Controls/Sliders/Continuous/Min Max Icon/Mini/100% - Pinch
+Controls/Sliders/Continuous/Min Max Icon/Mini/25% - Disabled
+Controls/Sliders/Continuous/Min Max Icon/Mini/25% - Hover
+Controls/Sliders/Continuous/Min Max Icon/Mini/25% - Idle
+Controls/Sliders/Continuous/Min Max Icon/Mini/25% - Pinch
+Controls/Sliders/Continuous/Min Max Icon/Mini/50% - Disabled
+Controls/Sliders/Continuous/Min Max Icon/Mini/50% - Hover
+Controls/Sliders/Continuous/Min Max Icon/Mini/50% - Idle
+Controls/Sliders/Continuous/Min Max Icon/Mini/50% - Pinch
+Controls/Sliders/Continuous/Min Max Icon/Mini/75% - Disabled
+Controls/Sliders/Continuous/Min Max Icon/Mini/75% - Hover
+Controls/Sliders/Continuous/Min Max Icon/Mini/75% - Idle
+Controls/Sliders/Continuous/Min Max Icon/Mini/75% - Pinch
+Controls/Sliders/Continuous/Min Max Icon/Regular/0% - Disabled
+Controls/Sliders/Continuous/Min Max Icon/Regular/0% - Hover
+Controls/Sliders/Continuous/Min Max Icon/Regular/0% - Idle
+Controls/Sliders/Continuous/Min Max Icon/Regular/0% - Pinch
+Controls/Sliders/Continuous/Min Max Icon/Regular/100% - Disabled
+Controls/Sliders/Continuous/Min Max Icon/Regular/100% - Hover
+Controls/Sliders/Continuous/Min Max Icon/Regular/100% - Idle
+Controls/Sliders/Continuous/Min Max Icon/Regular/100% - Pinch
+Controls/Sliders/Continuous/Min Max Icon/Regular/25% - Disabled
+Controls/Sliders/Continuous/Min Max Icon/Regular/25% - Hover
+Controls/Sliders/Continuous/Min Max Icon/Regular/25% - Idle
+Controls/Sliders/Continuous/Min Max Icon/Regular/25% - Pinch
+Controls/Sliders/Continuous/Min Max Icon/Regular/50% - Disabled
+Controls/Sliders/Continuous/Min Max Icon/Regular/50% - Hover
+Controls/Sliders/Continuous/Min Max Icon/Regular/50% - Idle
+Controls/Sliders/Continuous/Min Max Icon/Regular/50% - Pinch
+Controls/Sliders/Continuous/Min Max Icon/Regular/75% - Disabled
+Controls/Sliders/Continuous/Min Max Icon/Regular/75% - Hover
+Controls/Sliders/Continuous/Min Max Icon/Regular/75% - Idle
+Controls/Sliders/Continuous/Min Max Icon/Regular/75% - Pinch
+Controls/Sliders/Continuous/Min Max Icon/Small/0% - Disabled
+Controls/Sliders/Continuous/Min Max Icon/Small/0% - Hover
+Controls/Sliders/Continuous/Min Max Icon/Small/0% - Idle
+Controls/Sliders/Continuous/Min Max Icon/Small/0% - Pinch
+Controls/Sliders/Continuous/Min Max Icon/Small/100% - Disabled
+Controls/Sliders/Continuous/Min Max Icon/Small/100% - Hover
+Controls/Sliders/Continuous/Min Max Icon/Small/100% - Idle
+Controls/Sliders/Continuous/Min Max Icon/Small/100% - Pinch
+Controls/Sliders/Continuous/Min Max Icon/Small/25% - Disabled
+Controls/Sliders/Continuous/Min Max Icon/Small/25% - Hover
+Controls/Sliders/Continuous/Min Max Icon/Small/25% - Idle
+Controls/Sliders/Continuous/Min Max Icon/Small/25% - Pinch
+Controls/Sliders/Continuous/Min Max Icon/Small/50% - Disabled
+Controls/Sliders/Continuous/Min Max Icon/Small/50% - Hover
+Controls/Sliders/Continuous/Min Max Icon/Small/50% - Idle
+Controls/Sliders/Continuous/Min Max Icon/Small/50% - Pinch
+Controls/Sliders/Continuous/Min Max Icon/Small/75% - Disabled
+Controls/Sliders/Continuous/Min Max Icon/Small/75% - Hover
+Controls/Sliders/Continuous/Min Max Icon/Small/75% - Idle
+Controls/Sliders/Continuous/Min Max Icon/Small/75% - Pinch
+Controls/Sliders/Continuous/No Min Max Icon/Large/0% - Disabled
+Controls/Sliders/Continuous/No Min Max Icon/Large/0% - Hover
+Controls/Sliders/Continuous/No Min Max Icon/Large/0% - Idle
+Controls/Sliders/Continuous/No Min Max Icon/Large/0% - Pinch
+Controls/Sliders/Continuous/No Min Max Icon/Large/100% - Disabled
+Controls/Sliders/Continuous/No Min Max Icon/Large/100% - Hover
+Controls/Sliders/Continuous/No Min Max Icon/Large/100% - Idle
+Controls/Sliders/Continuous/No Min Max Icon/Large/100% - Pinch
+Controls/Sliders/Continuous/No Min Max Icon/Large/25% - Disabled
+Controls/Sliders/Continuous/No Min Max Icon/Large/25% - Hover
+Controls/Sliders/Continuous/No Min Max Icon/Large/25% - Idle
+Controls/Sliders/Continuous/No Min Max Icon/Large/25% - Pinch
+Controls/Sliders/Continuous/No Min Max Icon/Large/50% - Disabled
+Controls/Sliders/Continuous/No Min Max Icon/Large/50% - Hover
+Controls/Sliders/Continuous/No Min Max Icon/Large/50% - Idle
+Controls/Sliders/Continuous/No Min Max Icon/Large/50% - Pinch
+Controls/Sliders/Continuous/No Min Max Icon/Large/75% - Disabled
+Controls/Sliders/Continuous/No Min Max Icon/Large/75% - Hover
+Controls/Sliders/Continuous/No Min Max Icon/Large/75% - Idle
+Controls/Sliders/Continuous/No Min Max Icon/Large/75% - Pinch
+Controls/Sliders/Continuous/No Min Max Icon/Large/Disabled
+Controls/Sliders/Continuous/No Min Max Icon/Large/Hover
+Controls/Sliders/Continuous/No Min Max Icon/Large/Idle
+Controls/Sliders/Continuous/No Min Max Icon/Large/Pinch
+Controls/Sliders/Continuous/No Min Max Icon/Mini/0% - Disabled
+Controls/Sliders/Continuous/No Min Max Icon/Mini/0% - Hover
+Controls/Sliders/Continuous/No Min Max Icon/Mini/0% - Idle
+Controls/Sliders/Continuous/No Min Max Icon/Mini/0% - Pinch
+Controls/Sliders/Continuous/No Min Max Icon/Mini/100% - Disabled
+Controls/Sliders/Continuous/No Min Max Icon/Mini/100% - Hover
+Controls/Sliders/Continuous/No Min Max Icon/Mini/100% - Idle
+Controls/Sliders/Continuous/No Min Max Icon/Mini/100% - Pinch
+Controls/Sliders/Continuous/No Min Max Icon/Mini/25% - Disabled
+Controls/Sliders/Continuous/No Min Max Icon/Mini/25% - Hover
+Controls/Sliders/Continuous/No Min Max Icon/Mini/25% - Idle
+Controls/Sliders/Continuous/No Min Max Icon/Mini/25% - Pinch
+Controls/Sliders/Continuous/No Min Max Icon/Mini/50% - Disabled
+Controls/Sliders/Continuous/No Min Max Icon/Mini/50% - Hover
+Controls/Sliders/Continuous/No Min Max Icon/Mini/50% - Idle
+Controls/Sliders/Continuous/No Min Max Icon/Mini/50% - Pinch
+Controls/Sliders/Continuous/No Min Max Icon/Mini/75% - Disabled
+Controls/Sliders/Continuous/No Min Max Icon/Mini/75% - Hover
+Controls/Sliders/Continuous/No Min Max Icon/Mini/75% - Idle
+Controls/Sliders/Continuous/No Min Max Icon/Mini/75% - Pinch
+Controls/Sliders/Continuous/No Min Max Icon/Regular/0% - Disabled
+Controls/Sliders/Continuous/No Min Max Icon/Regular/0% - Hover
+Controls/Sliders/Continuous/No Min Max Icon/Regular/0% - Idle
+Controls/Sliders/Continuous/No Min Max Icon/Regular/0% - Pinch
+Controls/Sliders/Continuous/No Min Max Icon/Regular/100% - Disabled
+Controls/Sliders/Continuous/No Min Max Icon/Regular/100% - Hover
+Controls/Sliders/Continuous/No Min Max Icon/Regular/100% - Idle
+Controls/Sliders/Continuous/No Min Max Icon/Regular/100% - Pinch
+Controls/Sliders/Continuous/No Min Max Icon/Regular/25% - Disabled
+Controls/Sliders/Continuous/No Min Max Icon/Regular/25% - Hover
+Controls/Sliders/Continuous/No Min Max Icon/Regular/25% - Idle
+Controls/Sliders/Continuous/No Min Max Icon/Regular/25% - Pinch
+Controls/Sliders/Continuous/No Min Max Icon/Regular/50% - Disabled
+Controls/Sliders/Continuous/No Min Max Icon/Regular/50% - Hover
+Controls/Sliders/Continuous/No Min Max Icon/Regular/50% - Idle
+Controls/Sliders/Continuous/No Min Max Icon/Regular/50% - Pinch
+Controls/Sliders/Continuous/No Min Max Icon/Regular/75% - Disabled
+Controls/Sliders/Continuous/No Min Max Icon/Regular/75% - Hover
+Controls/Sliders/Continuous/No Min Max Icon/Regular/75% - Idle
+Controls/Sliders/Continuous/No Min Max Icon/Regular/75% - Pinch
+Controls/Sliders/Continuous/No Min Max Icon/Small/0% - Disabled
+Controls/Sliders/Continuous/No Min Max Icon/Small/0% - Hover
+Controls/Sliders/Continuous/No Min Max Icon/Small/0% - Idle
+Controls/Sliders/Continuous/No Min Max Icon/Small/0% - Pinch
+Controls/Sliders/Continuous/No Min Max Icon/Small/100% - Disabled
+Controls/Sliders/Continuous/No Min Max Icon/Small/100% - Hover
+Controls/Sliders/Continuous/No Min Max Icon/Small/100% - Idle
+Controls/Sliders/Continuous/No Min Max Icon/Small/100% - Pinch
+Controls/Sliders/Continuous/No Min Max Icon/Small/25% - Disabled
+Controls/Sliders/Continuous/No Min Max Icon/Small/25% - Hover
+Controls/Sliders/Continuous/No Min Max Icon/Small/25% - Idle
+Controls/Sliders/Continuous/No Min Max Icon/Small/25% - Pinch
+Controls/Sliders/Continuous/No Min Max Icon/Small/50% - Disabled
+Controls/Sliders/Continuous/No Min Max Icon/Small/50% - Hover
+Controls/Sliders/Continuous/No Min Max Icon/Small/50% - Idle
+Controls/Sliders/Continuous/No Min Max Icon/Small/50% - Pinch
+Controls/Sliders/Continuous/No Min Max Icon/Small/75% - Disabled
+Controls/Sliders/Continuous/No Min Max Icon/Small/75% - Hover
+Controls/Sliders/Continuous/No Min Max Icon/Small/75% - Idle
+Controls/Sliders/Continuous/No Min Max Icon/Small/75% - Pinch
+Controls/Sliders/Continuous/x/Large - Filled Track
+Controls/Sliders/Continuous/x/Large - Glow - Hover
+Controls/Sliders/Continuous/x/Large - Glow - Pinch
+Controls/Sliders/Continuous/x/Large - Knob - Hover
+Controls/Sliders/Continuous/x/Large - Knob - Pinch
+Controls/Sliders/Continuous/x/Mini - Filled Track
+Controls/Sliders/Continuous/x/Mini - Glow - Hover
+Controls/Sliders/Continuous/x/Mini - Glow - Pinch
+Controls/Sliders/Continuous/x/Mini - Knob - Hover
+Controls/Sliders/Continuous/x/Mini - Knob - Pinch
+Controls/Sliders/Continuous/x/Regular - Filled Track
+Controls/Sliders/Continuous/x/Regular - Glow - Hover
+Controls/Sliders/Continuous/x/Regular - Glow - Pinch
+Controls/Sliders/Continuous/x/Regular - Knob - Hover
+Controls/Sliders/Continuous/x/Regular - Knob - Pinch
+Controls/Sliders/Continuous/x/Small - Filled Track
+Controls/Sliders/Continuous/x/Small - Glow - Hover
+Controls/Sliders/Continuous/x/Small - Glow - Pinch
+Controls/Sliders/Continuous/x/Small - Knob - Hover
+Controls/Sliders/Continuous/x/Small - Knob - Pinch
+Controls/Sliders/Segmented/Min Max Icon/Large/0% - Disabled
+Controls/Sliders/Segmented/Min Max Icon/Large/0% - Hover
+Controls/Sliders/Segmented/Min Max Icon/Large/0% - Idle
+Controls/Sliders/Segmented/Min Max Icon/Large/0% - Pinch
+Controls/Sliders/Segmented/Min Max Icon/Large/100% - Disabled
+Controls/Sliders/Segmented/Min Max Icon/Large/100% - Hover
+Controls/Sliders/Segmented/Min Max Icon/Large/100% - Idle
+Controls/Sliders/Segmented/Min Max Icon/Large/100% - Pinch
+Controls/Sliders/Segmented/Min Max Icon/Large/25% - Disabled
+Controls/Sliders/Segmented/Min Max Icon/Large/25% - Hover
+Controls/Sliders/Segmented/Min Max Icon/Large/25% - Idle
+Controls/Sliders/Segmented/Min Max Icon/Large/25% - Pinch
+Controls/Sliders/Segmented/Min Max Icon/Large/50% - Disabled
+Controls/Sliders/Segmented/Min Max Icon/Large/50% - Hover
+Controls/Sliders/Segmented/Min Max Icon/Large/50% - Idle
+Controls/Sliders/Segmented/Min Max Icon/Large/50% - Pinch
+Controls/Sliders/Segmented/Min Max Icon/Large/75% - Disabled
+Controls/Sliders/Segmented/Min Max Icon/Large/75% - Hover
+Controls/Sliders/Segmented/Min Max Icon/Large/75% - Idle
+Controls/Sliders/Segmented/Min Max Icon/Large/75% - Pinch
+Controls/Sliders/Segmented/Min Max Icon/Mini/0% - Disabled
+Controls/Sliders/Segmented/Min Max Icon/Mini/0% - Hover
+Controls/Sliders/Segmented/Min Max Icon/Mini/0% - Idle
+Controls/Sliders/Segmented/Min Max Icon/Mini/0% - Pinch
+Controls/Sliders/Segmented/Min Max Icon/Mini/100% - Disabled
+Controls/Sliders/Segmented/Min Max Icon/Mini/100% - Hover
+Controls/Sliders/Segmented/Min Max Icon/Mini/100% - Idle
+Controls/Sliders/Segmented/Min Max Icon/Mini/100% - Pinch
+Controls/Sliders/Segmented/Min Max Icon/Mini/25% - Disabled
+Controls/Sliders/Segmented/Min Max Icon/Mini/25% - Hover
+Controls/Sliders/Segmented/Min Max Icon/Mini/25% - Idle
+Controls/Sliders/Segmented/Min Max Icon/Mini/25% - Pinch
+Controls/Sliders/Segmented/Min Max Icon/Mini/50% - Disabled
+Controls/Sliders/Segmented/Min Max Icon/Mini/50% - Hover
+Controls/Sliders/Segmented/Min Max Icon/Mini/50% - Idle
+Controls/Sliders/Segmented/Min Max Icon/Mini/50% - Pinch
+Controls/Sliders/Segmented/Min Max Icon/Mini/75% - Disabled
+Controls/Sliders/Segmented/Min Max Icon/Mini/75% - Hover
+Controls/Sliders/Segmented/Min Max Icon/Mini/75% - Idle
+Controls/Sliders/Segmented/Min Max Icon/Mini/75% - Pinch
+Controls/Sliders/Segmented/Min Max Icon/Regular/0% - Disabled
+Controls/Sliders/Segmented/Min Max Icon/Regular/0% - Hover
+Controls/Sliders/Segmented/Min Max Icon/Regular/0% - Idle
+Controls/Sliders/Segmented/Min Max Icon/Regular/0% - Pinch
+Controls/Sliders/Segmented/Min Max Icon/Regular/100% - Disabled
+Controls/Sliders/Segmented/Min Max Icon/Regular/100% - Hover
+Controls/Sliders/Segmented/Min Max Icon/Regular/100% - Idle
+Controls/Sliders/Segmented/Min Max Icon/Regular/100% - Pinch
+Controls/Sliders/Segmented/Min Max Icon/Regular/25% - Disabled
+Controls/Sliders/Segmented/Min Max Icon/Regular/25% - Hover
+Controls/Sliders/Segmented/Min Max Icon/Regular/25% - Idle
+Controls/Sliders/Segmented/Min Max Icon/Regular/25% - Pinch
+Controls/Sliders/Segmented/Min Max Icon/Regular/50% - Disabled
+Controls/Sliders/Segmented/Min Max Icon/Regular/50% - Hover
+Controls/Sliders/Segmented/Min Max Icon/Regular/50% - Idle
+Controls/Sliders/Segmented/Min Max Icon/Regular/50% - Pinch
+Controls/Sliders/Segmented/Min Max Icon/Regular/75% - Disabled
+Controls/Sliders/Segmented/Min Max Icon/Regular/75% - Hover
+Controls/Sliders/Segmented/Min Max Icon/Regular/75% - Idle
+Controls/Sliders/Segmented/Min Max Icon/Regular/75% - Pinch
+Controls/Sliders/Segmented/Min Max Icon/Small/0% - Disabled
+Controls/Sliders/Segmented/Min Max Icon/Small/0% - Hover
+Controls/Sliders/Segmented/Min Max Icon/Small/0% - Idle
+Controls/Sliders/Segmented/Min Max Icon/Small/0% - Pinch
+Controls/Sliders/Segmented/Min Max Icon/Small/100% - Disabled
+Controls/Sliders/Segmented/Min Max Icon/Small/100% - Hover
+Controls/Sliders/Segmented/Min Max Icon/Small/100% - Idle
+Controls/Sliders/Segmented/Min Max Icon/Small/100% - Pinch
+Controls/Sliders/Segmented/Min Max Icon/Small/25% - Disabled
+Controls/Sliders/Segmented/Min Max Icon/Small/25% - Hover
+Controls/Sliders/Segmented/Min Max Icon/Small/25% - Idle
+Controls/Sliders/Segmented/Min Max Icon/Small/25% - Pinch
+Controls/Sliders/Segmented/Min Max Icon/Small/50% - Disabled
+Controls/Sliders/Segmented/Min Max Icon/Small/50% - Hover
+Controls/Sliders/Segmented/Min Max Icon/Small/50% - Idle
+Controls/Sliders/Segmented/Min Max Icon/Small/50% - Pinch
+Controls/Sliders/Segmented/Min Max Icon/Small/75% - Disabled
+Controls/Sliders/Segmented/Min Max Icon/Small/75% - Hover
+Controls/Sliders/Segmented/Min Max Icon/Small/75% - Idle
+Controls/Sliders/Segmented/Min Max Icon/Small/75% - Pinch
+Controls/Sliders/Segmented/No Min Max Icon/Large/0% - Disabled
+Controls/Sliders/Segmented/No Min Max Icon/Large/0% - Hover
+Controls/Sliders/Segmented/No Min Max Icon/Large/0% - Idle
+Controls/Sliders/Segmented/No Min Max Icon/Large/0% - Pinch
+Controls/Sliders/Segmented/No Min Max Icon/Large/100% - Disabled
+Controls/Sliders/Segmented/No Min Max Icon/Large/100% - Hover
+Controls/Sliders/Segmented/No Min Max Icon/Large/100% - Idle
+Controls/Sliders/Segmented/No Min Max Icon/Large/100% - Pinch
+Controls/Sliders/Segmented/No Min Max Icon/Large/25% - Disabled
+Controls/Sliders/Segmented/No Min Max Icon/Large/25% - Hover
+Controls/Sliders/Segmented/No Min Max Icon/Large/25% - Idle
+Controls/Sliders/Segmented/No Min Max Icon/Large/25% - Pinch
+Controls/Sliders/Segmented/No Min Max Icon/Large/50% - Disabled
+Controls/Sliders/Segmented/No Min Max Icon/Large/50% - Hover
+Controls/Sliders/Segmented/No Min Max Icon/Large/50% - Idle
+Controls/Sliders/Segmented/No Min Max Icon/Large/50% - Pinch
+Controls/Sliders/Segmented/No Min Max Icon/Large/75% - Disabled
+Controls/Sliders/Segmented/No Min Max Icon/Large/75% - Hover
+Controls/Sliders/Segmented/No Min Max Icon/Large/75% - Idle
+Controls/Sliders/Segmented/No Min Max Icon/Large/75% - Pinch
+Controls/Sliders/Segmented/No Min Max Icon/Mini/0% - Disabled
+Controls/Sliders/Segmented/No Min Max Icon/Mini/0% - Hover
+Controls/Sliders/Segmented/No Min Max Icon/Mini/0% - Idle
+Controls/Sliders/Segmented/No Min Max Icon/Mini/0% - Pinch
+Controls/Sliders/Segmented/No Min Max Icon/Mini/100% - Disabled
+Controls/Sliders/Segmented/No Min Max Icon/Mini/100% - Hover
+Controls/Sliders/Segmented/No Min Max Icon/Mini/100% - Idle
+Controls/Sliders/Segmented/No Min Max Icon/Mini/100% - Pinch
+Controls/Sliders/Segmented/No Min Max Icon/Mini/25% - Disabled
+Controls/Sliders/Segmented/No Min Max Icon/Mini/25% - Hover
+Controls/Sliders/Segmented/No Min Max Icon/Mini/25% - Idle
+Controls/Sliders/Segmented/No Min Max Icon/Mini/25% - Pinch
+Controls/Sliders/Segmented/No Min Max Icon/Mini/50% - Disabled
+Controls/Sliders/Segmented/No Min Max Icon/Mini/50% - Hover
+Controls/Sliders/Segmented/No Min Max Icon/Mini/50% - Idle
+Controls/Sliders/Segmented/No Min Max Icon/Mini/50% - Pinch
+Controls/Sliders/Segmented/No Min Max Icon/Mini/75% - Disabled
+Controls/Sliders/Segmented/No Min Max Icon/Mini/75% - Hover
+Controls/Sliders/Segmented/No Min Max Icon/Mini/75% - Idle
+Controls/Sliders/Segmented/No Min Max Icon/Mini/75% - Pinch
+Controls/Sliders/Segmented/No Min Max Icon/Regular/0% - Disabled
+Controls/Sliders/Segmented/No Min Max Icon/Regular/0% - Hover
+Controls/Sliders/Segmented/No Min Max Icon/Regular/0% - Idle
+Controls/Sliders/Segmented/No Min Max Icon/Regular/0% - Pinch
+Controls/Sliders/Segmented/No Min Max Icon/Regular/100% - Disabled
+Controls/Sliders/Segmented/No Min Max Icon/Regular/100% - Hover
+Controls/Sliders/Segmented/No Min Max Icon/Regular/100% - Idle
+Controls/Sliders/Segmented/No Min Max Icon/Regular/100% - Pinch
+Controls/Sliders/Segmented/No Min Max Icon/Regular/25% - Disabled
+Controls/Sliders/Segmented/No Min Max Icon/Regular/25% - Hover
+Controls/Sliders/Segmented/No Min Max Icon/Regular/25% - Idle
+Controls/Sliders/Segmented/No Min Max Icon/Regular/25% - Pinch
+Controls/Sliders/Segmented/No Min Max Icon/Regular/50% - Disabled
+Controls/Sliders/Segmented/No Min Max Icon/Regular/50% - Hover
+Controls/Sliders/Segmented/No Min Max Icon/Regular/50% - Idle
+Controls/Sliders/Segmented/No Min Max Icon/Regular/50% - Pinch
+Controls/Sliders/Segmented/No Min Max Icon/Regular/75% - Disabled
+Controls/Sliders/Segmented/No Min Max Icon/Regular/75% - Hover
+Controls/Sliders/Segmented/No Min Max Icon/Regular/75% - Idle
+Controls/Sliders/Segmented/No Min Max Icon/Regular/75% - Pinch
+Controls/Sliders/Segmented/No Min Max Icon/Small/0% - Disabled
+Controls/Sliders/Segmented/No Min Max Icon/Small/0% - Hover
+Controls/Sliders/Segmented/No Min Max Icon/Small/0% - Idle
+Controls/Sliders/Segmented/No Min Max Icon/Small/0% - Pinch
+Controls/Sliders/Segmented/No Min Max Icon/Small/100% - Disabled
+Controls/Sliders/Segmented/No Min Max Icon/Small/100% - Hover
+Controls/Sliders/Segmented/No Min Max Icon/Small/100% - Idle
+Controls/Sliders/Segmented/No Min Max Icon/Small/100% - Pinch
+Controls/Sliders/Segmented/No Min Max Icon/Small/25% - Disabled
+Controls/Sliders/Segmented/No Min Max Icon/Small/25% - Hover
+Controls/Sliders/Segmented/No Min Max Icon/Small/25% - Idle
+Controls/Sliders/Segmented/No Min Max Icon/Small/25% - Pinch
+Controls/Sliders/Segmented/No Min Max Icon/Small/50% - Disabled
+Controls/Sliders/Segmented/No Min Max Icon/Small/50% - Hover
+Controls/Sliders/Segmented/No Min Max Icon/Small/50% - Idle
+Controls/Sliders/Segmented/No Min Max Icon/Small/50% - Pinch
+Controls/Sliders/Segmented/No Min Max Icon/Small/75% - Disabled
+Controls/Sliders/Segmented/No Min Max Icon/Small/75% - Hover
+Controls/Sliders/Segmented/No Min Max Icon/Small/75% - Idle
+Controls/Sliders/Segmented/No Min Max Icon/Small/75% - Pinch
+Controls/Tab Bar/2 Tabs/Collapsed/Selected 1
+Controls/Tab Bar/2 Tabs/Collapsed/Selected 2
+Controls/Tab Bar/2 Tabs/Expanded/Selected 1
+Controls/Tab Bar/2 Tabs/Expanded/Selected 2
+Controls/Tab Bar/3 Tabs/Collapsed/Selected 1
+Controls/Tab Bar/3 Tabs/Collapsed/Selected 2
+Controls/Tab Bar/3 Tabs/Collapsed/Selected 3
+Controls/Tab Bar/3 Tabs/Expanded/Selected 1
+Controls/Tab Bar/3 Tabs/Expanded/Selected 2
+Controls/Tab Bar/3 Tabs/Expanded/Selected 3
+Controls/Tab Bar/4 Tabs/Collapsed/Selected 1
+Controls/Tab Bar/4 Tabs/Collapsed/Selected 2
+Controls/Tab Bar/4 Tabs/Collapsed/Selected 3
+Controls/Tab Bar/4 Tabs/Collapsed/Selected 4
+Controls/Tab Bar/4 Tabs/Expanded/Selected 1
+Controls/Tab Bar/4 Tabs/Expanded/Selected 2
+Controls/Tab Bar/4 Tabs/Expanded/Selected 3
+Controls/Tab Bar/4 Tabs/Expanded/Selected 4
+Controls/Tab Bar/5 Tabs/Collapsed/Selected 1
+Controls/Tab Bar/5 Tabs/Collapsed/Selected 2
+Controls/Tab Bar/5 Tabs/Collapsed/Selected 3
+Controls/Tab Bar/5 Tabs/Collapsed/Selected 4
+Controls/Tab Bar/5 Tabs/Collapsed/Selected 5
+Controls/Tab Bar/5 Tabs/Expanded/Selected 1
+Controls/Tab Bar/5 Tabs/Expanded/Selected 2
+Controls/Tab Bar/5 Tabs/Expanded/Selected 3
+Controls/Tab Bar/5 Tabs/Expanded/Selected 4
+Controls/Tab Bar/5 Tabs/Expanded/Selected 5
+Controls/Tab Bar/6 Tabs/Collapsed/Selected 1
+Controls/Tab Bar/6 Tabs/Collapsed/Selected 2
+Controls/Tab Bar/6 Tabs/Collapsed/Selected 3
+Controls/Tab Bar/6 Tabs/Collapsed/Selected 4
+Controls/Tab Bar/6 Tabs/Collapsed/Selected 5
+Controls/Tab Bar/6 Tabs/Collapsed/Selected 6
+Controls/Tab Bar/6 Tabs/Expanded/Selected 1
+Controls/Tab Bar/6 Tabs/Expanded/Selected 2
+Controls/Tab Bar/6 Tabs/Expanded/Selected 3
+Controls/Tab Bar/6 Tabs/Expanded/Selected 4
+Controls/Tab Bar/6 Tabs/Expanded/Selected 5
+Controls/Tab Bar/6 Tabs/Expanded/Selected 6
+Controls/Tab Bar/7 Tabs/Collapsed/Selected 1
+Controls/Tab Bar/7 Tabs/Collapsed/Selected 2
+Controls/Tab Bar/7 Tabs/Collapsed/Selected 3
+Controls/Tab Bar/7 Tabs/Collapsed/Selected 4
+Controls/Tab Bar/7 Tabs/Collapsed/Selected 5
+Controls/Tab Bar/7 Tabs/Collapsed/Selected 6
+Controls/Tab Bar/7 Tabs/Collapsed/Selected 7
+Controls/Tab Bar/7 Tabs/Expanded/Selected 1
+Controls/Tab Bar/7 Tabs/Expanded/Selected 2
+Controls/Tab Bar/7 Tabs/Expanded/Selected 3
+Controls/Tab Bar/7 Tabs/Expanded/Selected 4
+Controls/Tab Bar/7 Tabs/Expanded/Selected 5
+Controls/Tab Bar/7 Tabs/Expanded/Selected 6
+Controls/Tab Bar/7 Tabs/Expanded/Selected 7
+Controls/Tab Bar/Tab Item/Hover
+Controls/Tab Bar/Tab Item/Idle
+Controls/Tab Bar/Tab Item/Selected
+Controls/Tab Bar/Tab Item/Selected Hover
+Controls/Toggle/OFF/Disabled
+Controls/Toggle/OFF/Hover
+Controls/Toggle/OFF/Idle
+Controls/Toggle/OFF/Pinch
+Controls/Toggle/ON/Disabled
+Controls/Toggle/ON/Hover
+Controls/Toggle/ON/Idle
+Controls/Toggle/ON/Pinch
+Controls/Toolbars/Glyph Toolbar/2
+Controls/Toolbars/Glyph Toolbar/3
+Controls/Toolbars/Glyph Toolbar/4
+Controls/Toolbars/Glyph Toolbar/5
+Controls/Toolbars/Glyph Toolbar/6
+Controls/Toolbars/Glyph Toolbar/7
+Controls/Toolbars/Glyph Toolbar/8
+Controls/Toolbars/Label Toolbar/2
+Controls/Toolbars/Label Toolbar/3
+Controls/Toolbars/Label Toolbar/4
+Controls/Toolbars/Label Toolbar/5
+Controls/Toolbars/Label Toolbar/6
+Controls/Toolbars/Label Toolbar/7
+Controls/Toolbars/Label Toolbar/8
+Controls/Tooltip
+Gestures/Graphic/None
+Gestures/Graphic/Tap - Single
+Gestures/One Hand/Left - Full Opacity
+Gestures/One Hand/Right - Full Opacity
+Gestures/x/Gesture - Pinch/Person 1 - Arm Roll Netural
+Gestures/x/Gesture - Tap/Person 1 - Arm Roll Netural
+Gestures/x/Hand/Pinch
+Gestures/x/Hand/Tap
+System/Activities/App Icon + 1 Button
+System/Activities/App Icon + 2 Buttons
+System/Activities/Session UI
+System/Activities/Symbol + 1 Button
+System/Activities/Symbol + 2 Buttons
+System/Keyboard
+System/Notifications/Default/Text Only
+System/Notifications/Default/Time Sensitive
+System/Notifications/Default/with Image
+System/Notifications/Long Look/Text Only
+System/Notifications/Long Look/Text Only with Multiple Buttons
+System/Notifications/Long Look/with Custom Content
+System/Notifications/Long Look/with Image
+System/Notifications/Temporary Notices/Title
+System/Notifications/Temporary Notices/Title + Action
+System/Notifications/Temporary Notices/Title + Subtitle
+System/Notifications/Temporary Notices/Title + Subtitle + Action
+System/Notifications/Temporary Notices/Title + Subtitle in 2 Lines
+System/Notifications/Temporary Notices/Title + Subtitle in 2 Lines + Action
+System/Notifications/Temporary Notices/x/Close Button
+System/Privacy Indicator/Dwell
+System/Privacy Indicator/Hover
+System/Privacy Indicator/Idle
+System/Requests/FaceTime Invite
+System/Requests/Single Action
+System/Requests/Text + Image
+System/Requests/Text + Tertiary Action
+System/Requests/Text Only
+System/SharePlay Status/Idle
+System/SharePlay Status/Not Sharable
+System/SharePlay Status/Selected
+System/SharePlay Status/Shared
+System/SharePlay Status/Shared Selected
+System/Window Controls/Document Title/Idle
+System/Window Controls/Document Title/Idle No Action
+System/Window Controls/Document Title/Selected
+System/Window Controls/Grabber/Close Button Hover
+System/Window Controls/Grabber/Grabber Hover
+System/Window Controls/Grabber/Idle
+System/Window Controls/Resize Grabber/Bottom Left
+System/Window Controls/Resize Grabber/Bottom Right
+Views/Alerts/0 Buttons
+Views/Alerts/1 Button
+Views/Alerts/2 Buttons
+Views/Alerts/2 Buttons with Destructive Button
+Views/Alerts/2 Buttons with Input Field
+Views/Alerts/3 Buttons
+Views/Alerts/Code Filled
+Views/Alerts/Code Input
+Views/Alerts/Custom Content
+Views/Alerts/x/Buttons/Cancel - Idle
+Views/Alerts/x/Buttons/Default Action - Idle
+Views/Alerts/x/Buttons/Destructive - Idle
+Views/Color Picker/Grid
+Views/Color Picker/Sliders
+Views/Color Picker/Spectrum
+Views/Share Sheet/Modal
+Views/Share Sheet/No Collaboration
+Views/Share Sheet/With Collaboration
+Views/Share Sheet/x/Icon List Item/Small/Hover
+Views/Share Sheet/x/Icon List Item/Small/Idle
+Views/Sidebar/Example 1
+Views/Sidebar/Example 2
+Views/Sidebar/Example 3
+Views/Sidebar/Header
+Views/Sidebar/Section Title
+Views/Sidebar/Sidebar Item/Hover
+Views/Sidebar/Sidebar Item/Idle
+Views/Sidebar/Sidebar Item/Selected
+Views/Sidebar/x/Header Button
+Views/Sidebar/x/Sidebar Item Right Accessories/Circle
+Views/Sidebar/x/Sidebar Item Right Accessories/Circle Gradient
+Views/Sidebar/x/Sidebar Item Right Accessories/Icon No Background
+Views/Sidebar/x/Sidebar Item Right Accessories/Icon with Background
+Views/Sidebar/x/Sidebar Item Right Accessories/Image Circle
+Views/Sidebar/x/Sidebar Item Right Accessories/Image Square
+Views/Sidebar/x/Sidebar Item Right Accessories/Notification Number
+z.Miscellaneous/Background/Apartment - Day
+z.Miscellaneous/Background/Apartment - Night
+z.Miscellaneous/Badges/Extra Large/App Icon
+z.Miscellaneous/Badges/Extra Large/Color Dot
+z.Miscellaneous/Badges/Extra Large/Icon
+z.Miscellaneous/Badges/Extra Large/Notification Badge
+z.Miscellaneous/Badges/Large/App Icon
+z.Miscellaneous/Badges/Large/Color Dot
+z.Miscellaneous/Badges/Large/Icon
+z.Miscellaneous/Badges/Large/Notification Badge
+z.Miscellaneous/Badges/Medium/App Icon
+z.Miscellaneous/Badges/Medium/Color Dot
+z.Miscellaneous/Badges/Medium/Icon
+z.Miscellaneous/Badges/Medium/Notification Badge
+z.Miscellaneous/Badges/Small/App Icon
+z.Miscellaneous/Badges/Small/Color Dot
+z.Miscellaneous/Badges/Small/Icon
+z.Miscellaneous/Badges/Small/Notification Badge
+z.Miscellaneous/Icons/Alert Default Icon
+z.Miscellaneous/Icons/App Icon + Badge/Extra Large
+z.Miscellaneous/Icons/App Icon + Badge/Large
+z.Miscellaneous/Icons/App Icon + Badge/Medium
+z.Miscellaneous/Icons/App Icon + Badge/Small
+z.Miscellaneous/Icons/App Icon + Bottom Badge/Extra Large
+z.Miscellaneous/Icons/App Icon + Bottom Badge/Large
+z.Miscellaneous/Icons/App Icon + Bottom Badge/Medium
+z.Miscellaneous/Icons/App Icon + Bottom Badge/Small
+z.Miscellaneous/Icons/Artwork/AirDrop
+z.Miscellaneous/Icons/Artwork/App Store
+z.Miscellaneous/Icons/Artwork/Apple TV
+z.Miscellaneous/Icons/Artwork/Calendar
+z.Miscellaneous/Icons/Artwork/Files
+z.Miscellaneous/Icons/Artwork/Freeform
+z.Miscellaneous/Icons/Artwork/Keynote
+z.Miscellaneous/Icons/Artwork/Mail
+z.Miscellaneous/Icons/Artwork/Messages
+z.Miscellaneous/Icons/Artwork/Mindfulness
+z.Miscellaneous/Icons/Artwork/Music
+z.Miscellaneous/Icons/Artwork/Notes
+z.Miscellaneous/Icons/Artwork/Photos
+z.Miscellaneous/Icons/Artwork/Safari
+z.Miscellaneous/Icons/Artwork/Settings
+z.Miscellaneous/Icons/Artwork/Third Party
+z.Miscellaneous/Icons/Avatar + Badge/Extra Large
+z.Miscellaneous/Icons/Avatar + Badge/Large
+z.Miscellaneous/Icons/Avatar + Badge/Medium
+z.Miscellaneous/Icons/Avatar + Badge/Small
+z.Miscellaneous/Icons/Avatar + Bottom Badge/Extra Large
+z.Miscellaneous/Icons/Avatar + Bottom Badge/Large
+z.Miscellaneous/Icons/Avatar + Bottom Badge/Medium
+z.Miscellaneous/Icons/Avatar + Bottom Badge/Small
+z.Miscellaneous/Icons/Avatar/Extra Large
+z.Miscellaneous/Icons/Avatar/Extra Small
+z.Miscellaneous/Icons/Avatar/Large
+z.Miscellaneous/Icons/Avatar/Medium
+z.Miscellaneous/Icons/Avatar/Small
+z.Miscellaneous/Icons/Extra Large/App Icon
+z.Miscellaneous/Icons/Extra Small/App Icon
+z.Miscellaneous/Icons/Home View App Icon
+z.Miscellaneous/Icons/Icon + Bottom Badge/Extra Large
+z.Miscellaneous/Icons/Icon + Bottom Badge/Large
+z.Miscellaneous/Icons/Icon + Bottom Badge/Medium
+z.Miscellaneous/Icons/Icon + Bottom Badge/Small
+z.Miscellaneous/Icons/Large/App Icon
+z.Miscellaneous/Icons/Medium/App Icon
+z.Miscellaneous/Icons/Small/App Icon
+z.Miscellaneous/Icons/Symbol + Badge/Extra Large
+z.Miscellaneous/Icons/Symbol + Badge/Large
+z.Miscellaneous/Icons/Symbol + Badge/Medium
+z.Miscellaneous/Icons/Symbol + Badge/Small
+z.Miscellaneous/Icons/Symbol/Extra Large
+z.Miscellaneous/Icons/Symbol/Extra Small
+z.Miscellaneous/Icons/Symbol/Large
+z.Miscellaneous/Icons/Symbol/Medium
+z.Miscellaneous/Icons/Symbol/Small
+
+--- Artboards (screens / layouts) ---
+Alert
+Colors
+Gestures
+Home Screen
+Navigation Bar with Search
+Navigation Bar with Share Sheet
+Plain Style Table
+Sidebar and Tab Bar
+Sidebar and Table
+Tab Bar - Collapsed
+Tab Bar - Expanded
+Text Styles
+Toolbar - Label
+Toolbar - Symbol with Tooltip
+
+[counts] symbols=900 artboards=14

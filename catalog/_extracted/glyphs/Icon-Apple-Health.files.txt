@@ -1,0 +1,7 @@
+# Contents of glyphs/Icon-Apple-Health.dmg  (file names only — Apple Inc. property)
+# source: https://developer.apple.com/design/resources/
+
+/tmp/ads_mnt/dmg.gE6JBf
+/tmp/ads_mnt/dmg.gE6JBf/Apple Health Icon
+/tmp/ads_mnt/dmg.gE6JBf/Apple Health Icon/Icon - Apple Health.png
+/tmp/ads_mnt/dmg.gE6JBf/Developer Licence Agreement for Apple Health Icon.rtf

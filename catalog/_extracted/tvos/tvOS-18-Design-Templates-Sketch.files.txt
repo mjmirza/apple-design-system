@@ -1,0 +1,8 @@
+# Contents of tvos/tvOS-18-Design-Templates-Sketch.dmg  (file names only — Apple Inc. property)
+# source: https://developer.apple.com/design/resources/
+
+/tmp/ads_mnt/dmg.ezctak
+/tmp/ads_mnt/dmg.ezctak/Apple Design Resources License.rtf
+/tmp/ads_mnt/dmg.ezctak/Download SF Symbols.webloc
+/tmp/ads_mnt/dmg.ezctak/tvOS 18 - Design Templates - Sketch
+/tmp/ads_mnt/dmg.ezctak/tvOS 18 - Design Templates - Sketch/Design Templates + Components + Guides.sketch

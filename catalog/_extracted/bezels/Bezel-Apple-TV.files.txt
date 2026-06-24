@@ -1,0 +1,9 @@
+# Contents of bezels/Bezel-Apple-TV.dmg  (file names only — Apple Inc. property)
+# source: https://developer.apple.com/design/resources/
+
+/tmp/ads_mnt/dmg.U66b8h
+/tmp/ads_mnt/dmg.U66b8h/App Store Marketing Artwork License Agreement.rtf
+/tmp/ads_mnt/dmg.U66b8h/Photoshop
+/tmp/ads_mnt/dmg.U66b8h/Photoshop/Apple TV - 4K.psd
+/tmp/ads_mnt/dmg.U66b8h/PNG
+/tmp/ads_mnt/dmg.U66b8h/PNG/Apple TV - 4K.png

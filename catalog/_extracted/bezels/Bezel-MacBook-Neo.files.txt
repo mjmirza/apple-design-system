@@ -1,0 +1,15 @@
+# Contents of bezels/Bezel-MacBook-Neo.dmg  (file names only — Apple Inc. property)
+# source: https://developer.apple.com/design/resources/
+
+/tmp/ads_mnt/dmg.9vIUFM
+/tmp/ads_mnt/dmg.9vIUFM/Apple Design Resources License.rtf
+/tmp/ads_mnt/dmg.9vIUFM/Photoshop
+/tmp/ads_mnt/dmg.9vIUFM/Photoshop/MacBook Neo - Blush.psd
+/tmp/ads_mnt/dmg.9vIUFM/Photoshop/MacBook Neo - Citrus.psd
+/tmp/ads_mnt/dmg.9vIUFM/Photoshop/MacBook Neo - Indigo.psd
+/tmp/ads_mnt/dmg.9vIUFM/Photoshop/MacBook Neo - Silver.psd
+/tmp/ads_mnt/dmg.9vIUFM/PNG
+/tmp/ads_mnt/dmg.9vIUFM/PNG/MacBook Neo - Blush.png
+/tmp/ads_mnt/dmg.9vIUFM/PNG/MacBook Neo - Citrus.png
+/tmp/ads_mnt/dmg.9vIUFM/PNG/MacBook Neo - Indigo.png
+/tmp/ads_mnt/dmg.9vIUFM/PNG/MacBook Neo - Silver.png

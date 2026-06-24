@@ -1,0 +1,5 @@
+# Contents of fonts/SF-Mono.dmg  (file names only — Apple Inc. property)
+# source: https://developer.apple.com/design/resources/
+
+/tmp/ads_mnt/dmg.1EUTrn
+/tmp/ads_mnt/dmg.1EUTrn/SF Mono Fonts.pkg

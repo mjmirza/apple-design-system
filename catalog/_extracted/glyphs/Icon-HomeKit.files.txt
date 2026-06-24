@@ -1,0 +1,8 @@
+# Contents of glyphs/Icon-HomeKit.dmg  (file names only — Apple Inc. property)
+# source: https://developer.apple.com/design/resources/
+
+/tmp/ads_mnt/dmg.5zOoQA
+/tmp/ads_mnt/dmg.5zOoQA/Developer Licence Agreement for HomeKit.rtf
+/tmp/ads_mnt/dmg.5zOoQA/Home App Icon and HomeKit Glyph
+/tmp/ads_mnt/dmg.5zOoQA/Home App Icon and HomeKit Glyph/Glyph - HomeKit.pdf
+/tmp/ads_mnt/dmg.5zOoQA/Home App Icon and HomeKit Glyph/Icon - Home App.png

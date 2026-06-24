@@ -1,0 +1,8 @@
+# Contents of glyphs/Glyph-AirPlay.dmg  (file names only — Apple Inc. property)
+# source: https://developer.apple.com/design/resources/
+
+/tmp/ads_mnt/dmg.CSL3Ss
+/tmp/ads_mnt/dmg.CSL3Ss/AirPlay Glyph and Badge
+/tmp/ads_mnt/dmg.CSL3Ss/AirPlay Glyph and Badge/Glyph - AirPlay - Audio.pdf
+/tmp/ads_mnt/dmg.CSL3Ss/AirPlay Glyph and Badge/Glyph - AirPlay - Video.pdf
+/tmp/ads_mnt/dmg.CSL3Ss/Developer Licence Agreement for AirPlay.rtf

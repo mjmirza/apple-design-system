@@ -1,0 +1,5 @@
+# Contents of parallax/Parallax-Previewer.dmg  (file names only — Apple Inc. property)
+# source: https://developer.apple.com/design/resources/
+
+/tmp/ads_mnt/dmg.nYQyTm
+/tmp/ads_mnt/dmg.nYQyTm/Install Parallax Previewer.pkg

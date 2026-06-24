@@ -1,0 +1,23 @@
+# Contents of bezels/Bezel-MacBook-Air-M5.dmg  (file names only — Apple Inc. property)
+# source: https://developer.apple.com/design/resources/
+
+/tmp/ads_mnt/dmg.5fTIny
+/tmp/ads_mnt/dmg.5fTIny/Apple Design Resources License.rtf
+/tmp/ads_mnt/dmg.5fTIny/Photoshop
+/tmp/ads_mnt/dmg.5fTIny/Photoshop/MacBook Air M5 13-inch Midnight.psd
+/tmp/ads_mnt/dmg.5fTIny/Photoshop/MacBook Air M5 13-inch Silver.psd
+/tmp/ads_mnt/dmg.5fTIny/Photoshop/MacBook Air M5 13-inch Sky Blue.psd
+/tmp/ads_mnt/dmg.5fTIny/Photoshop/MacBook Air M5 13-inch Starlight.psd
+/tmp/ads_mnt/dmg.5fTIny/Photoshop/MacBook Air M5 15-inch Midnight.psd
+/tmp/ads_mnt/dmg.5fTIny/Photoshop/MacBook Air M5 15-inch Silver.psd
+/tmp/ads_mnt/dmg.5fTIny/Photoshop/MacBook Air M5 15-inch Sky Blue.psd
+/tmp/ads_mnt/dmg.5fTIny/Photoshop/MacBook Air M5 15-inch Starlight.psd
+/tmp/ads_mnt/dmg.5fTIny/PNG
+/tmp/ads_mnt/dmg.5fTIny/PNG/MacBook Air M5 13-inch Midnight.png
+/tmp/ads_mnt/dmg.5fTIny/PNG/MacBook Air M5 13-inch Silver.png
+/tmp/ads_mnt/dmg.5fTIny/PNG/MacBook Air M5 13-inch Sky Blue.png
+/tmp/ads_mnt/dmg.5fTIny/PNG/MacBook Air M5 13-inch Starlight.png
+/tmp/ads_mnt/dmg.5fTIny/PNG/MacBook Air M5 15-inch Midnight.png
+/tmp/ads_mnt/dmg.5fTIny/PNG/MacBook Air M5 15-inch Silver.png
+/tmp/ads_mnt/dmg.5fTIny/PNG/MacBook Air M5 15-inch Sky Blue.png
+/tmp/ads_mnt/dmg.5fTIny/PNG/MacBook Air M5 15-inch Starlight.png

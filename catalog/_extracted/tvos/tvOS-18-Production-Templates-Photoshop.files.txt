@@ -1,0 +1,22 @@
+# Contents of tvos/tvOS-18-Production-Templates-Photoshop.dmg  (file names only — Apple Inc. property)
+# source: https://developer.apple.com/design/resources/
+
+/tmp/ads_mnt/dmg.NZYg8F
+/tmp/ads_mnt/dmg.NZYg8F/Apple Design Resources License.rtf
+/tmp/ads_mnt/dmg.NZYg8F/tvOS 18 - Production Templates - Photoshop
+/tmp/ads_mnt/dmg.NZYg8F/tvOS 18 - Production Templates - Photoshop/Template - App Icon - AppStore - 1280 x 768 pt (P3).psd
+/tmp/ads_mnt/dmg.NZYg8F/tvOS 18 - Production Templates - Photoshop/Template - App Icon - AppStore - 1280 x 768 pt.psd
+/tmp/ads_mnt/dmg.NZYg8F/tvOS 18 - Production Templates - Photoshop/Template - App Icon Small - 400 x 240 pt (P3) @2x.psd
+/tmp/ads_mnt/dmg.NZYg8F/tvOS 18 - Production Templates - Photoshop/Template - App Icon Small - 400 x 240 pt.psd
+/tmp/ads_mnt/dmg.NZYg8F/tvOS 18 - Production Templates - Photoshop/Template - Game Center - Leaderboard - 659 x 371 pt (P3) @2x.psd
+/tmp/ads_mnt/dmg.NZYg8F/tvOS 18 - Production Templates - Photoshop/Template - Game Center - Leaderboard - 659 x 371 pt.psd
+/tmp/ads_mnt/dmg.NZYg8F/tvOS 18 - Production Templates - Photoshop/Template - Top Shelf - HDTV - 908 x 512 pt (P3) @2x.psd
+/tmp/ads_mnt/dmg.NZYg8F/tvOS 18 - Production Templates - Photoshop/Template - Top Shelf - HDTV - 908 x 512 pt.psd
+/tmp/ads_mnt/dmg.NZYg8F/tvOS 18 - Production Templates - Photoshop/Template - Top Shelf - Poster - 404 x 608 pt (P3) @2x.psd
+/tmp/ads_mnt/dmg.NZYg8F/tvOS 18 - Production Templates - Photoshop/Template - Top Shelf - Poster - 404 x 608 pt.psd
+/tmp/ads_mnt/dmg.NZYg8F/tvOS 18 - Production Templates - Photoshop/Template - Top Shelf - Scrolling Inset Banner - 1940 x 692 pt (P3) @2x.psd
+/tmp/ads_mnt/dmg.NZYg8F/tvOS 18 - Production Templates - Photoshop/Template - Top Shelf - Scrolling Inset Banner - 1940 x 692 pt.psd
+/tmp/ads_mnt/dmg.NZYg8F/tvOS 18 - Production Templates - Photoshop/Template - Top Shelf - Square - 608 x 608 pt (P3) @2x.psd
+/tmp/ads_mnt/dmg.NZYg8F/tvOS 18 - Production Templates - Photoshop/Template - Top Shelf - Square - 608 x 608 pt.psd
+/tmp/ads_mnt/dmg.NZYg8F/tvOS 18 - Production Templates - Photoshop/Template - Top Shelf - Wide - 2320 x 720 pt (P3) @2x.psd
+/tmp/ads_mnt/dmg.NZYg8F/tvOS 18 - Production Templates - Photoshop/Template - Top Shelf - Wide - 2320 x 720 pt.psd

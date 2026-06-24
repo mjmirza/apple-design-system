@@ -1,0 +1,10 @@
+# Contents of glyphs/Icon-Siri.dmg  (file names only — Apple Inc. property)
+# source: https://developer.apple.com/design/resources/
+
+/tmp/ads_mnt/dmg.1lD0nX
+/tmp/ads_mnt/dmg.1lD0nX/Developer Licence Agreement for Siri.rtf
+/tmp/ads_mnt/dmg.1lD0nX/Siri Icons
+/tmp/ads_mnt/dmg.1lD0nX/Siri Icons/Siri - Icon - Dark Mode.png
+/tmp/ads_mnt/dmg.1lD0nX/Siri Icons/Siri - Icon.png
+/tmp/ads_mnt/dmg.1lD0nX/Siri Icons/Siri - Orb - Dark Mode.png
+/tmp/ads_mnt/dmg.1lD0nX/Siri Icons/Siri - Orb.png

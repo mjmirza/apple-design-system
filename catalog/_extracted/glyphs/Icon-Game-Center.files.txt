@@ -1,0 +1,41 @@
+# Contents of glyphs/Icon-Game-Center.dmg  (file names only — Apple Inc. property)
+# source: https://developer.apple.com/design/resources/
+
+/tmp/ads_mnt/dmg.zNuEqP
+/tmp/ads_mnt/dmg.zNuEqP/Developer Licence Agreement for Game Center.rtf
+/tmp/ads_mnt/dmg.zNuEqP/Icons
+/tmp/ads_mnt/dmg.zNuEqP/Icons/Game Center - Black.pdf
+/tmp/ads_mnt/dmg.zNuEqP/Icons/Game Center - Black.svg
+/tmp/ads_mnt/dmg.zNuEqP/Icons/Game Center - Color.png
+/tmp/ads_mnt/dmg.zNuEqP/Icons/Game Center - White.pdf
+/tmp/ads_mnt/dmg.zNuEqP/Icons/Game Center - White.svg
+/tmp/ads_mnt/dmg.zNuEqP/Icons/Games - Black.pdf
+/tmp/ads_mnt/dmg.zNuEqP/Icons/Games - Black.svg
+/tmp/ads_mnt/dmg.zNuEqP/Icons/Games - Color.png
+/tmp/ads_mnt/dmg.zNuEqP/Icons/Games - White.pdf
+/tmp/ads_mnt/dmg.zNuEqP/Icons/Games - White.svg
+/tmp/ads_mnt/dmg.zNuEqP/Symbols
+/tmp/ads_mnt/dmg.zNuEqP/Symbols/Symbol - Achievements - Black.pdf
+/tmp/ads_mnt/dmg.zNuEqP/Symbols/Symbol - Achievements - Black.svg
+/tmp/ads_mnt/dmg.zNuEqP/Symbols/Symbol - Achievements - White.pdf
+/tmp/ads_mnt/dmg.zNuEqP/Symbols/Symbol - Achievements - White.svg
+/tmp/ads_mnt/dmg.zNuEqP/Symbols/Symbol - Activities - Black.pdf
+/tmp/ads_mnt/dmg.zNuEqP/Symbols/Symbol - Activities - Black.svg
+/tmp/ads_mnt/dmg.zNuEqP/Symbols/Symbol - Activities - White.pdf
+/tmp/ads_mnt/dmg.zNuEqP/Symbols/Symbol - Activities - White.svg
+/tmp/ads_mnt/dmg.zNuEqP/Symbols/Symbol - Challenges - Black.pdf
+/tmp/ads_mnt/dmg.zNuEqP/Symbols/Symbol - Challenges - Black.svg
+/tmp/ads_mnt/dmg.zNuEqP/Symbols/Symbol - Challenges - White.pdf
+/tmp/ads_mnt/dmg.zNuEqP/Symbols/Symbol - Challenges - White.svg
+/tmp/ads_mnt/dmg.zNuEqP/Symbols/Symbol - Events - Black.pdf
+/tmp/ads_mnt/dmg.zNuEqP/Symbols/Symbol - Events - Black.svg
+/tmp/ads_mnt/dmg.zNuEqP/Symbols/Symbol - Events - White.pdf
+/tmp/ads_mnt/dmg.zNuEqP/Symbols/Symbol - Events - White.svg
+/tmp/ads_mnt/dmg.zNuEqP/Symbols/Symbol - Leaderboards - Black.pdf
+/tmp/ads_mnt/dmg.zNuEqP/Symbols/Symbol - Leaderboards - Black.svg
+/tmp/ads_mnt/dmg.zNuEqP/Symbols/Symbol - Leaderboards - White.pdf
+/tmp/ads_mnt/dmg.zNuEqP/Symbols/Symbol - Leaderboards - White.svg
+/tmp/ads_mnt/dmg.zNuEqP/Symbols/Symbol - Profile - Black.pdf
+/tmp/ads_mnt/dmg.zNuEqP/Symbols/Symbol - Profile - Black.svg
+/tmp/ads_mnt/dmg.zNuEqP/Symbols/Symbol - Profile - White.pdf
+/tmp/ads_mnt/dmg.zNuEqP/Symbols/Symbol - Profile - White.svg

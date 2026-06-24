@@ -1,0 +1,10 @@
+# Contents of glyphs/Glyph-ARKit.dmg  (file names only — Apple Inc. property)
+# source: https://developer.apple.com/design/resources/
+
+/tmp/ads_mnt/dmg.HCX4Wf
+/tmp/ads_mnt/dmg.HCX4Wf/ARKit Glyph and Badge
+/tmp/ads_mnt/dmg.HCX4Wf/ARKit Glyph and Badge/Badge - ARKit (Glyph-only).pdf
+/tmp/ads_mnt/dmg.HCX4Wf/ARKit Glyph and Badge/Badge - ARKit.pdf
+/tmp/ads_mnt/dmg.HCX4Wf/ARKit Glyph and Badge/Icon - Control Label - ARKit.pdf
+/tmp/ads_mnt/dmg.HCX4Wf/ARKit Glyph and Badge/Specs - ARKit Badge.png
+/tmp/ads_mnt/dmg.HCX4Wf/Developer Licence Agreement for ARKit.rtf

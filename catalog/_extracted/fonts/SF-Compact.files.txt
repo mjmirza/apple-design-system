@@ -1,0 +1,5 @@
+# Contents of fonts/SF-Compact.dmg  (file names only — Apple Inc. property)
+# source: https://developer.apple.com/design/resources/
+
+/tmp/ads_mnt/dmg.uDpG8w
+/tmp/ads_mnt/dmg.uDpG8w/SF Compact Fonts.pkg

@@ -1,0 +1,15 @@
+# Contents of bezels/Bezel-Studio-Displays.dmg  (file names only — Apple Inc. property)
+# source: https://developer.apple.com/design/resources/
+
+/tmp/ads_mnt/dmg.1WOn0v
+/tmp/ads_mnt/dmg.1WOn0v/Apple Design Resources License.rtf
+/tmp/ads_mnt/dmg.1WOn0v/Photoshop
+/tmp/ads_mnt/dmg.1WOn0v/Photoshop/Studio Display 2026 On Dark Background.psd
+/tmp/ads_mnt/dmg.1WOn0v/Photoshop/Studio Display 2026 On Light Background.psd
+/tmp/ads_mnt/dmg.1WOn0v/Photoshop/Studio Display XDR 2026 On Dark Background.psd
+/tmp/ads_mnt/dmg.1WOn0v/Photoshop/Studio Display XDR 2026 On Light Background.psd
+/tmp/ads_mnt/dmg.1WOn0v/PNG
+/tmp/ads_mnt/dmg.1WOn0v/PNG/Studio Display 2026 On Dark Background.png
+/tmp/ads_mnt/dmg.1WOn0v/PNG/Studio Display 2026 On Light Background.png
+/tmp/ads_mnt/dmg.1WOn0v/PNG/Studio Display XDR 2026 On Dark Background.png
+/tmp/ads_mnt/dmg.1WOn0v/PNG/Studio Display XDR 2026 On Light Background.png

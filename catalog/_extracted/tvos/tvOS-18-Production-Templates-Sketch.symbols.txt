@@ -1,0 +1,16 @@
+# Sketch symbols/artboards from tvos/tvOS-18-Production-Templates-Sketch (Template - Game Center + App Icon + Top Shelf.sketch) — names are facts
+--- Symbols (reusable components) ---
+
+--- Artboards (screens / layouts) ---
+App Icon - App Store: 1280 x 768 pt
+App Icon @1x: 400 x 240 pt
+App Icon @2x: 800 x 480 pt
+Game Center - Leaderboard: 659 x 371 pt
+Top Shelf - HDTV: 908 x 512 pt
+Top Shelf - Poster: 404 x 608 pt
+Top Shelf - Scrolling Inset Banner: 1940 x 692 pt
+Top Shelf - Square: 608 x 608 pt
+Top Shelf Wide: 2320 x 720 pt
+Top Shelf: 1920 x 720 pt
+
+[counts] symbols=0 artboards=10

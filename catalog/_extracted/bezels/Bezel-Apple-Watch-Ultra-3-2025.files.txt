@@ -1,0 +1,41 @@
+# Contents of bezels/Bezel-Apple-Watch-Ultra-3-2025.dmg  (file names only — Apple Inc. property)
+# source: https://developer.apple.com/design/resources/
+
+/tmp/ads_mnt/dmg.q1hBhO
+/tmp/ads_mnt/dmg.q1hBhO/Apple Design Resources License.rtf
+/tmp/ads_mnt/dmg.q1hBhO/Photoshop
+/tmp/ads_mnt/dmg.q1hBhO/Photoshop/Alpine Loop
+/tmp/ads_mnt/dmg.q1hBhO/Photoshop/Alpine Loop/AW Ultra 3 - Black + Alpine Loop Black.psd
+/tmp/ads_mnt/dmg.q1hBhO/Photoshop/Alpine Loop/AW Ultra 3 - Black + Alpine Loop Light Blue.psd
+/tmp/ads_mnt/dmg.q1hBhO/Photoshop/Alpine Loop/AW Ultra 3 - Natural + Alpine Loop Light Blue.psd
+/tmp/ads_mnt/dmg.q1hBhO/Photoshop/Alpine Loop/AW Ultra 3 - Natural + Alpine Loop Terra Cotta.psd
+/tmp/ads_mnt/dmg.q1hBhO/Photoshop/Milanese Loop
+/tmp/ads_mnt/dmg.q1hBhO/Photoshop/Milanese Loop/AW Ultra 3 - Black + Milanese Loop.psd
+/tmp/ads_mnt/dmg.q1hBhO/Photoshop/Milanese Loop/AW Ultra 3 - Natural + Milanese Loop.psd
+/tmp/ads_mnt/dmg.q1hBhO/Photoshop/Ocean Band
+/tmp/ads_mnt/dmg.q1hBhO/Photoshop/Ocean Band/AW Ultra 3 - Black + Ocean Band Anchor Blue.psd
+/tmp/ads_mnt/dmg.q1hBhO/Photoshop/Ocean Band/AW Ultra 3 - Black + Ocean Band Black.psd
+/tmp/ads_mnt/dmg.q1hBhO/Photoshop/Ocean Band/AW Ultra 3 - Natural + Ocean Band Anchor Blue.psd
+/tmp/ads_mnt/dmg.q1hBhO/Photoshop/Ocean Band/AW Ultra 3 - Natural + Ocean Band Neon Green.psd
+/tmp/ads_mnt/dmg.q1hBhO/Photoshop/Trail Loop
+/tmp/ads_mnt/dmg.q1hBhO/Photoshop/Trail Loop/AW Ultra 3 - Black + Trail Loop Black Charcoal.psd
+/tmp/ads_mnt/dmg.q1hBhO/Photoshop/Trail Loop/AW Ultra 3 - Natural + Trail Loop Blue Bright Blue.psd
+/tmp/ads_mnt/dmg.q1hBhO/Photoshop/Trail Loop/AW Ultra 3 - Natural + Trail Loop Green Neon.psd
+/tmp/ads_mnt/dmg.q1hBhO/PNG
+/tmp/ads_mnt/dmg.q1hBhO/PNG/Alpine Loop
+/tmp/ads_mnt/dmg.q1hBhO/PNG/Alpine Loop/AW Ultra 3 - Black + Alpine Loop Black.png
+/tmp/ads_mnt/dmg.q1hBhO/PNG/Alpine Loop/AW Ultra 3 - Black + Alpine Loop Light Blue.png
+/tmp/ads_mnt/dmg.q1hBhO/PNG/Alpine Loop/AW Ultra 3 - Natural + Alpine Loop Light Blue.png
+/tmp/ads_mnt/dmg.q1hBhO/PNG/Alpine Loop/AW Ultra 3 - Natural + Alpine Loop Terra Cotta.png
+/tmp/ads_mnt/dmg.q1hBhO/PNG/Milanese Loop
+/tmp/ads_mnt/dmg.q1hBhO/PNG/Milanese Loop/AW Ultra 3 - Black + Milanese Loop.png
+/tmp/ads_mnt/dmg.q1hBhO/PNG/Milanese Loop/AW Ultra 3 - Natural + Milanese Loop.png
+/tmp/ads_mnt/dmg.q1hBhO/PNG/Ocean Band
+/tmp/ads_mnt/dmg.q1hBhO/PNG/Ocean Band/AW Ultra 3 - Black + Ocean Band Anchor Blue.png
+/tmp/ads_mnt/dmg.q1hBhO/PNG/Ocean Band/AW Ultra 3 - Black + Ocean Band Black.png
+/tmp/ads_mnt/dmg.q1hBhO/PNG/Ocean Band/AW Ultra 3 - Natural + Ocean Band Anchor Blue.png
+/tmp/ads_mnt/dmg.q1hBhO/PNG/Ocean Band/AW Ultra 3 - Natural + Ocean Band Neon Green.png
+/tmp/ads_mnt/dmg.q1hBhO/PNG/Trail Loop
+/tmp/ads_mnt/dmg.q1hBhO/PNG/Trail Loop/AW Ultra 3 - Black + Trail Loop Black Charcoal.png
+/tmp/ads_mnt/dmg.q1hBhO/PNG/Trail Loop/AW Ultra 3 - Natural + Trail Loop Blue Bright Blue.png
+/tmp/ads_mnt/dmg.q1hBhO/PNG/Trail Loop/AW Ultra 3 - Natural + Trail Loop Green Neon.png

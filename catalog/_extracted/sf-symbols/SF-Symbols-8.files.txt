@@ -1,0 +1,5 @@
+# Contents of sf-symbols/SF-Symbols-8.dmg  (file names only — Apple Inc. property)
+# source: https://developer.apple.com/design/resources/
+
+/tmp/ads_mnt/dmg.oFATKI
+/tmp/ads_mnt/dmg.oFATKI/SF Symbols.pkg

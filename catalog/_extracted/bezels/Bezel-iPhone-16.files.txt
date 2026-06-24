@@ -1,0 +1,87 @@
+# Contents of bezels/Bezel-iPhone-16.dmg  (file names only — Apple Inc. property)
+# source: https://developer.apple.com/design/resources/
+
+/tmp/ads_mnt/dmg.NqwaeW
+/tmp/ads_mnt/dmg.NqwaeW/App Store Marketing Artwork License Agreement.rtf
+/tmp/ads_mnt/dmg.NqwaeW/Photoshop
+/tmp/ads_mnt/dmg.NqwaeW/Photoshop/iPhone 16
+/tmp/ads_mnt/dmg.NqwaeW/Photoshop/iPhone 16/iPhone 16 - Black - Landscape.psd
+/tmp/ads_mnt/dmg.NqwaeW/Photoshop/iPhone 16/iPhone 16 - Black - Portrait.psd
+/tmp/ads_mnt/dmg.NqwaeW/Photoshop/iPhone 16/iPhone 16 - Pink - Landscape.psd
+/tmp/ads_mnt/dmg.NqwaeW/Photoshop/iPhone 16/iPhone 16 - Pink - Portrait.psd
+/tmp/ads_mnt/dmg.NqwaeW/Photoshop/iPhone 16/iPhone 16 - Teal - Landscape.psd
+/tmp/ads_mnt/dmg.NqwaeW/Photoshop/iPhone 16/iPhone 16 - Teal - Portrait.psd
+/tmp/ads_mnt/dmg.NqwaeW/Photoshop/iPhone 16/iPhone 16 - Ultramarine - Landscape.psd
+/tmp/ads_mnt/dmg.NqwaeW/Photoshop/iPhone 16/iPhone 16 - Ultramarine - Portrait.psd
+/tmp/ads_mnt/dmg.NqwaeW/Photoshop/iPhone 16/iPhone 16 - White - Landscape.psd
+/tmp/ads_mnt/dmg.NqwaeW/Photoshop/iPhone 16/iPhone 16 - White - Portrait.psd
+/tmp/ads_mnt/dmg.NqwaeW/Photoshop/iPhone 16 Plus
+/tmp/ads_mnt/dmg.NqwaeW/Photoshop/iPhone 16 Plus/iPhone 16 Plus - Black - Landscape.psd
+/tmp/ads_mnt/dmg.NqwaeW/Photoshop/iPhone 16 Plus/iPhone 16 Plus - Black - Portrait.psd
+/tmp/ads_mnt/dmg.NqwaeW/Photoshop/iPhone 16 Plus/iPhone 16 Plus - Pink - Landscape.psd
+/tmp/ads_mnt/dmg.NqwaeW/Photoshop/iPhone 16 Plus/iPhone 16 Plus - Pink - Portrait.psd
+/tmp/ads_mnt/dmg.NqwaeW/Photoshop/iPhone 16 Plus/iPhone 16 Plus - Teal - Landscape.psd
+/tmp/ads_mnt/dmg.NqwaeW/Photoshop/iPhone 16 Plus/iPhone 16 Plus - Teal - Portrait.psd
+/tmp/ads_mnt/dmg.NqwaeW/Photoshop/iPhone 16 Plus/iPhone 16 Plus - Ultramarine - Landscape.psd
+/tmp/ads_mnt/dmg.NqwaeW/Photoshop/iPhone 16 Plus/iPhone 16 Plus - Ultramarine - Portrait.psd
+/tmp/ads_mnt/dmg.NqwaeW/Photoshop/iPhone 16 Plus/iPhone 16 Plus - White - Landscape.psd
+/tmp/ads_mnt/dmg.NqwaeW/Photoshop/iPhone 16 Plus/iPhone 16 Plus - White - Portrait.psd
+/tmp/ads_mnt/dmg.NqwaeW/Photoshop/iPhone 16 Pro
+/tmp/ads_mnt/dmg.NqwaeW/Photoshop/iPhone 16 Pro/iPhone 16 Pro - Black Titanium - Landscape.psd
+/tmp/ads_mnt/dmg.NqwaeW/Photoshop/iPhone 16 Pro/iPhone 16 Pro - Black Titanium - Portrait.psd
+/tmp/ads_mnt/dmg.NqwaeW/Photoshop/iPhone 16 Pro/iPhone 16 Pro - Desert Titanium - Landscape.psd
+/tmp/ads_mnt/dmg.NqwaeW/Photoshop/iPhone 16 Pro/iPhone 16 Pro - Desert Titanium - Portrait.psd
+/tmp/ads_mnt/dmg.NqwaeW/Photoshop/iPhone 16 Pro/iPhone 16 Pro - Natural Titanium - Landscape.psd
+/tmp/ads_mnt/dmg.NqwaeW/Photoshop/iPhone 16 Pro/iPhone 16 Pro - Natural Titanium - Portrait.psd
+/tmp/ads_mnt/dmg.NqwaeW/Photoshop/iPhone 16 Pro/iPhone 16 Pro - White Titanium - Landscape.psd
+/tmp/ads_mnt/dmg.NqwaeW/Photoshop/iPhone 16 Pro/iPhone 16 Pro - White Titanium - Portrait.psd
+/tmp/ads_mnt/dmg.NqwaeW/Photoshop/iPhone 16 Pro Max
+/tmp/ads_mnt/dmg.NqwaeW/Photoshop/iPhone 16 Pro Max/iPhone 16 Pro Max - Black Titanium - Landscape.psd
+/tmp/ads_mnt/dmg.NqwaeW/Photoshop/iPhone 16 Pro Max/iPhone 16 Pro Max - Black Titanium - Portrait.psd
+/tmp/ads_mnt/dmg.NqwaeW/Photoshop/iPhone 16 Pro Max/iPhone 16 Pro Max - Desert Titanium - Landscape.psd
+/tmp/ads_mnt/dmg.NqwaeW/Photoshop/iPhone 16 Pro Max/iPhone 16 Pro Max - Desert Titanium - Portrait.psd
+/tmp/ads_mnt/dmg.NqwaeW/Photoshop/iPhone 16 Pro Max/iPhone 16 Pro Max - Natural Titanium - Landscape.psd
+/tmp/ads_mnt/dmg.NqwaeW/Photoshop/iPhone 16 Pro Max/iPhone 16 Pro Max - Natural Titanium - Portrait.psd
+/tmp/ads_mnt/dmg.NqwaeW/Photoshop/iPhone 16 Pro Max/iPhone 16 Pro Max - White Titanium - Landscape.psd
+/tmp/ads_mnt/dmg.NqwaeW/Photoshop/iPhone 16 Pro Max/iPhone 16 Pro Max - White Titanium - Portrait.psd
+/tmp/ads_mnt/dmg.NqwaeW/PNG
+/tmp/ads_mnt/dmg.NqwaeW/PNG/iPhone 16
+/tmp/ads_mnt/dmg.NqwaeW/PNG/iPhone 16/iPhone 16 - Black - Landscape.png
+/tmp/ads_mnt/dmg.NqwaeW/PNG/iPhone 16/iPhone 16 - Black - Portrait.png
+/tmp/ads_mnt/dmg.NqwaeW/PNG/iPhone 16/iPhone 16 - Pink - Landscape.png
+/tmp/ads_mnt/dmg.NqwaeW/PNG/iPhone 16/iPhone 16 - Pink - Portrait.png
+/tmp/ads_mnt/dmg.NqwaeW/PNG/iPhone 16/iPhone 16 - Teal - Landscape.png
+/tmp/ads_mnt/dmg.NqwaeW/PNG/iPhone 16/iPhone 16 - Teal - Portrait.png
+/tmp/ads_mnt/dmg.NqwaeW/PNG/iPhone 16/iPhone 16 - Ultramarine - Landscape.png
+/tmp/ads_mnt/dmg.NqwaeW/PNG/iPhone 16/iPhone 16 - Ultramarine - Portrait.png
+/tmp/ads_mnt/dmg.NqwaeW/PNG/iPhone 16/iPhone 16 - White - Landscape.png
+/tmp/ads_mnt/dmg.NqwaeW/PNG/iPhone 16/iPhone 16 - White - Portrait.png
+/tmp/ads_mnt/dmg.NqwaeW/PNG/iPhone 16 Plus
+/tmp/ads_mnt/dmg.NqwaeW/PNG/iPhone 16 Plus/iPhone 16 Plus - Black - Landscape.png
+/tmp/ads_mnt/dmg.NqwaeW/PNG/iPhone 16 Plus/iPhone 16 Plus - Black - Portrait.png
+/tmp/ads_mnt/dmg.NqwaeW/PNG/iPhone 16 Plus/iPhone 16 Plus - Pink - Landscape.png
+/tmp/ads_mnt/dmg.NqwaeW/PNG/iPhone 16 Plus/iPhone 16 Plus - Pink - Portrait.png
+/tmp/ads_mnt/dmg.NqwaeW/PNG/iPhone 16 Plus/iPhone 16 Plus - Teal - Landscape.png
+/tmp/ads_mnt/dmg.NqwaeW/PNG/iPhone 16 Plus/iPhone 16 Plus - Teal - Portrait.png
+/tmp/ads_mnt/dmg.NqwaeW/PNG/iPhone 16 Plus/iPhone 16 Plus - Ultramarine - Landscape.png
+/tmp/ads_mnt/dmg.NqwaeW/PNG/iPhone 16 Plus/iPhone 16 Plus - Ultramarine - Portrait.png
+/tmp/ads_mnt/dmg.NqwaeW/PNG/iPhone 16 Plus/iPhone 16 Plus - White - Landscape.png
+/tmp/ads_mnt/dmg.NqwaeW/PNG/iPhone 16 Plus/iPhone 16 Plus - White - Portrait.png
+/tmp/ads_mnt/dmg.NqwaeW/PNG/iPhone 16 Pro
+/tmp/ads_mnt/dmg.NqwaeW/PNG/iPhone 16 Pro/iPhone 16 Pro - Black Titanium - Landscape.png
+/tmp/ads_mnt/dmg.NqwaeW/PNG/iPhone 16 Pro/iPhone 16 Pro - Black Titanium - Portrait.png
+/tmp/ads_mnt/dmg.NqwaeW/PNG/iPhone 16 Pro/iPhone 16 Pro - Desert Titanium - Landscape.png
+/tmp/ads_mnt/dmg.NqwaeW/PNG/iPhone 16 Pro/iPhone 16 Pro - Desert Titanium - Portrait.png
+/tmp/ads_mnt/dmg.NqwaeW/PNG/iPhone 16 Pro/iPhone 16 Pro - Natural Titanium - Landscape.png
+/tmp/ads_mnt/dmg.NqwaeW/PNG/iPhone 16 Pro/iPhone 16 Pro - Natural Titanium - Portrait.png
+/tmp/ads_mnt/dmg.NqwaeW/PNG/iPhone 16 Pro/iPhone 16 Pro - White Titanium - Landscape.png
+/tmp/ads_mnt/dmg.NqwaeW/PNG/iPhone 16 Pro/iPhone 16 Pro - White Titanium - Portrait.png
+/tmp/ads_mnt/dmg.NqwaeW/PNG/iPhone 16 Pro Max
+/tmp/ads_mnt/dmg.NqwaeW/PNG/iPhone 16 Pro Max/iPhone 16 Pro Max - Black Titanium - Landscape.png
+/tmp/ads_mnt/dmg.NqwaeW/PNG/iPhone 16 Pro Max/iPhone 16 Pro Max - Black Titanium - Portrait.png
+/tmp/ads_mnt/dmg.NqwaeW/PNG/iPhone 16 Pro Max/iPhone 16 Pro Max - Desert Titanium - Landscape.png
+/tmp/ads_mnt/dmg.NqwaeW/PNG/iPhone 16 Pro Max/iPhone 16 Pro Max - Desert Titanium - Portrait.png
+/tmp/ads_mnt/dmg.NqwaeW/PNG/iPhone 16 Pro Max/iPhone 16 Pro Max - Natural Titanium - Landscape.png
+/tmp/ads_mnt/dmg.NqwaeW/PNG/iPhone 16 Pro Max/iPhone 16 Pro Max - Natural Titanium - Portrait.png
+/tmp/ads_mnt/dmg.NqwaeW/PNG/iPhone 16 Pro Max/iPhone 16 Pro Max - White Titanium - Landscape.png
+/tmp/ads_mnt/dmg.NqwaeW/PNG/iPhone 16 Pro Max/iPhone 16 Pro Max - White Titanium - Portrait.png

@@ -1,0 +1,39 @@
+# Contents of bezels/Bezel-iPad-Air-(M4).dmg  (file names only — Apple Inc. property)
+# source: https://developer.apple.com/design/resources/
+
+/tmp/ads_mnt/dmg.79Ouoq
+/tmp/ads_mnt/dmg.79Ouoq/Apple Design Resources License.rtf
+/tmp/ads_mnt/dmg.79Ouoq/Photoshop
+/tmp/ads_mnt/dmg.79Ouoq/Photoshop/iPad Air 11" (M4) - Blue - Landscape.psd
+/tmp/ads_mnt/dmg.79Ouoq/Photoshop/iPad Air 11" (M4) - Blue - Portrait.psd
+/tmp/ads_mnt/dmg.79Ouoq/Photoshop/iPad Air 11" (M4) - Purple - Landscape.psd
+/tmp/ads_mnt/dmg.79Ouoq/Photoshop/iPad Air 11" (M4) - Purple - Portrait.psd
+/tmp/ads_mnt/dmg.79Ouoq/Photoshop/iPad Air 11" (M4) - Space Gray - Landscape.psd
+/tmp/ads_mnt/dmg.79Ouoq/Photoshop/iPad Air 11" (M4) - Space Gray - Portrait.psd
+/tmp/ads_mnt/dmg.79Ouoq/Photoshop/iPad Air 11" (M4) - Starlight - Landscape.psd
+/tmp/ads_mnt/dmg.79Ouoq/Photoshop/iPad Air 11" (M4) - Starlight - Portrait.psd
+/tmp/ads_mnt/dmg.79Ouoq/Photoshop/iPad Air 13" (M4) - Blue - Landscape.psd
+/tmp/ads_mnt/dmg.79Ouoq/Photoshop/iPad Air 13" (M4) - Blue - Portrait.psd
+/tmp/ads_mnt/dmg.79Ouoq/Photoshop/iPad Air 13" (M4) - Purple - Landscape.psd
+/tmp/ads_mnt/dmg.79Ouoq/Photoshop/iPad Air 13" (M4) - Purple - Portrait.psd
+/tmp/ads_mnt/dmg.79Ouoq/Photoshop/iPad Air 13" (M4) - Space Gray - Landscape.psd
+/tmp/ads_mnt/dmg.79Ouoq/Photoshop/iPad Air 13" (M4) - Space Gray - Portrait.psd
+/tmp/ads_mnt/dmg.79Ouoq/Photoshop/iPad Air 13" (M4) - Starlight - Landscape.psd
+/tmp/ads_mnt/dmg.79Ouoq/Photoshop/iPad Air 13" (M4) - Starlight - Portrait.psd
+/tmp/ads_mnt/dmg.79Ouoq/PNG
+/tmp/ads_mnt/dmg.79Ouoq/PNG/iPad Air 11" (M4) - Blue - Landscape.png
+/tmp/ads_mnt/dmg.79Ouoq/PNG/iPad Air 11" (M4) - Blue - Portrait.png
+/tmp/ads_mnt/dmg.79Ouoq/PNG/iPad Air 11" (M4) - Purple - Landscape.png
+/tmp/ads_mnt/dmg.79Ouoq/PNG/iPad Air 11" (M4) - Purple - Portrait.png
+/tmp/ads_mnt/dmg.79Ouoq/PNG/iPad Air 11" (M4) - Space Gray - Landscape.png
+/tmp/ads_mnt/dmg.79Ouoq/PNG/iPad Air 11" (M4) - Space Gray - Portrait.png
+/tmp/ads_mnt/dmg.79Ouoq/PNG/iPad Air 11" (M4) - Starlight - Landscape.png
+/tmp/ads_mnt/dmg.79Ouoq/PNG/iPad Air 11" (M4) - Starlight - Portrait.png
+/tmp/ads_mnt/dmg.79Ouoq/PNG/iPad Air 13" (M4) - Blue - Landscape.png
+/tmp/ads_mnt/dmg.79Ouoq/PNG/iPad Air 13" (M4) - Blue - Portrait.png
+/tmp/ads_mnt/dmg.79Ouoq/PNG/iPad Air 13" (M4) - Purple - Landscape.png
+/tmp/ads_mnt/dmg.79Ouoq/PNG/iPad Air 13" (M4) - Purple - Portrait.png
+/tmp/ads_mnt/dmg.79Ouoq/PNG/iPad Air 13" (M4) - Space Gray - Landscape.png
+/tmp/ads_mnt/dmg.79Ouoq/PNG/iPad Air 13" (M4) - Space Gray - Portrait.png
+/tmp/ads_mnt/dmg.79Ouoq/PNG/iPad Air 13" (M4) - Starlight - Landscape.png
+/tmp/ads_mnt/dmg.79Ouoq/PNG/iPad Air 13" (M4) - Starlight - Portrait.png

@@ -1,0 +1,5 @@
+# Contents of fonts/NY.dmg  (file names only — Apple Inc. property)
+# source: https://developer.apple.com/design/resources/
+
+/tmp/ads_mnt/dmg.U7O6UG
+/tmp/ads_mnt/dmg.U7O6UG/NY Fonts.pkg

@@ -1,0 +1,6 @@
+# Contents of bezels/Keynote-Live-Video-Product-Bezel.dmg  (file names only — Apple Inc. property)
+# source: https://developer.apple.com/design/resources/
+
+/tmp/ads_mnt/dmg.MtScV1
+/tmp/ads_mnt/dmg.MtScV1/App Store Marketing Artwork License Agreement.rtf
+/tmp/ads_mnt/dmg.MtScV1/Product-Bezels-Live-Video-Template.key

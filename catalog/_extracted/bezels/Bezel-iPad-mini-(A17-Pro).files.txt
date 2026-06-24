@@ -1,0 +1,23 @@
+# Contents of bezels/Bezel-iPad-mini-(A17-Pro).dmg  (file names only — Apple Inc. property)
+# source: https://developer.apple.com/design/resources/
+
+/tmp/ads_mnt/dmg.6rO0to
+/tmp/ads_mnt/dmg.6rO0to/Apple Design Resources License.rtf
+/tmp/ads_mnt/dmg.6rO0to/Photoshop
+/tmp/ads_mnt/dmg.6rO0to/Photoshop/iPad mini (A17 Pro) - Blue - Landscape.psd
+/tmp/ads_mnt/dmg.6rO0to/Photoshop/iPad mini (A17 Pro) - Blue - Portrait.psd
+/tmp/ads_mnt/dmg.6rO0to/Photoshop/iPad mini (A17 Pro) - Purple - Landscape.psd
+/tmp/ads_mnt/dmg.6rO0to/Photoshop/iPad mini (A17 Pro) - Purple - Portrait.psd
+/tmp/ads_mnt/dmg.6rO0to/Photoshop/iPad mini (A17 Pro) - Space Gray - Landscape.psd
+/tmp/ads_mnt/dmg.6rO0to/Photoshop/iPad mini (A17 Pro) - Space Gray - Portrait.psd
+/tmp/ads_mnt/dmg.6rO0to/Photoshop/iPad mini (A17 Pro) - Starlight - Landscape.psd
+/tmp/ads_mnt/dmg.6rO0to/Photoshop/iPad mini (A17 Pro) - Starlight - Portrait.psd
+/tmp/ads_mnt/dmg.6rO0to/PNG
+/tmp/ads_mnt/dmg.6rO0to/PNG/iPad mini (A17 Pro) - Blue - Landscape.png
+/tmp/ads_mnt/dmg.6rO0to/PNG/iPad mini (A17 Pro) - Blue - Portrait.png
+/tmp/ads_mnt/dmg.6rO0to/PNG/iPad mini (A17 Pro) - Purple - Landscape.png
+/tmp/ads_mnt/dmg.6rO0to/PNG/iPad mini (A17 Pro) - Purple - Portrait.png
+/tmp/ads_mnt/dmg.6rO0to/PNG/iPad mini (A17 Pro) - Space Gray - Landscape.png
+/tmp/ads_mnt/dmg.6rO0to/PNG/iPad mini (A17 Pro) - Space Gray - Portrait.png
+/tmp/ads_mnt/dmg.6rO0to/PNG/iPad mini (A17 Pro) - Starlight - Landscape.png
+/tmp/ads_mnt/dmg.6rO0to/PNG/iPad mini (A17 Pro) - Starlight - Portrait.png

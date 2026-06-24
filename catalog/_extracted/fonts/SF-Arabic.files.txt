@@ -1,0 +1,5 @@
+# Contents of fonts/SF-Arabic.dmg  (file names only — Apple Inc. property)
+# source: https://developer.apple.com/design/resources/
+
+/tmp/ads_mnt/dmg.sD85En
+/tmp/ads_mnt/dmg.sD85En/SF Arabic Fonts.pkg

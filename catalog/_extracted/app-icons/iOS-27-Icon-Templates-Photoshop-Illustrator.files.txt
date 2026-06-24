@@ -1,0 +1,40 @@
+# Contents of app-icons/iOS-27-Icon-Templates-Photoshop-Illustrator.dmg  (file names only — Apple Inc. property)
+# source: https://developer.apple.com/design/resources/
+
+/tmp/ads_mnt/dmg.hShkY1
+/tmp/ads_mnt/dmg.hShkY1/Apple Design Resources License.rtf
+/tmp/ads_mnt/dmg.hShkY1/Icon Composer Demo Project
+/tmp/ads_mnt/dmg.hShkY1/Icon Composer Demo Project/Demo Project.icon
+/tmp/ads_mnt/dmg.hShkY1/Icon Composer Demo Project/Demo Project.icon/Assets
+/tmp/ads_mnt/dmg.hShkY1/Icon Composer Demo Project/Demo Project.icon/Assets/1.circle.svg
+/tmp/ads_mnt/dmg.hShkY1/Icon Composer Demo Project/Demo Project.icon/Assets/2.circle.svg
+/tmp/ads_mnt/dmg.hShkY1/Icon Composer Demo Project/Demo Project.icon/Assets/3.circle.svg
+/tmp/ads_mnt/dmg.hShkY1/Icon Composer Demo Project/Demo Project.icon/icon.json
+/tmp/ads_mnt/dmg.hShkY1/Icon Composer Demo Project/Exports
+/tmp/ads_mnt/dmg.hShkY1/Icon Composer Demo Project/Exports/Demo Project-iOS-ClearDark-1024@1x.png
+/tmp/ads_mnt/dmg.hShkY1/Icon Composer Demo Project/Exports/Demo Project-iOS-ClearLight-1024@1x.png
+/tmp/ads_mnt/dmg.hShkY1/Icon Composer Demo Project/Exports/Demo Project-iOS-Dark-1024@1x.png
+/tmp/ads_mnt/dmg.hShkY1/Icon Composer Demo Project/Exports/Demo Project-iOS-Default-1024@1x.png
+/tmp/ads_mnt/dmg.hShkY1/Icon Composer Demo Project/Exports/Demo Project-iOS-TintedDark-1024@1x.png
+/tmp/ads_mnt/dmg.hShkY1/Icon Composer Demo Project/Exports/Demo Project-iOS-TintedLight-1024@1x.png
+/tmp/ads_mnt/dmg.hShkY1/Icon Composer Demo Project/Exports/Demo Project-watchOS-Default-1088@1x.png
+/tmp/ads_mnt/dmg.hShkY1/Icon Composer Demo Project/SVGs
+/tmp/ads_mnt/dmg.hShkY1/Icon Composer Demo Project/SVGs/1.circle.svg
+/tmp/ads_mnt/dmg.hShkY1/Icon Composer Demo Project/SVGs/2.circle.svg
+/tmp/ads_mnt/dmg.hShkY1/Icon Composer Demo Project/SVGs/3.circle.svg
+/tmp/ads_mnt/dmg.hShkY1/iOS 27 - Icon Templates - Illustrator
+/tmp/ads_mnt/dmg.hShkY1/iOS 27 - Icon Templates - Illustrator/App Icon Template.ai
+/tmp/ads_mnt/dmg.hShkY1/iOS 27 - Icon Templates - Illustrator/Plug-in
+/tmp/ads_mnt/dmg.hShkY1/iOS 27 - Icon Templates - Illustrator/Plug-in/Export for Icon Composer.jsx
+/tmp/ads_mnt/dmg.hShkY1/iOS 27 - Icon Templates - Illustrator/Plug-in/Instructions.rtf
+/tmp/ads_mnt/dmg.hShkY1/iOS 27 - Icon Templates - Photoshop
+/tmp/ads_mnt/dmg.hShkY1/iOS 27 - Icon Templates - Photoshop/App Icon Template-assets
+/tmp/ads_mnt/dmg.hShkY1/iOS 27 - Icon Templates - Photoshop/App Icon Template-assets/PNG
+/tmp/ads_mnt/dmg.hShkY1/iOS 27 - Icon Templates - Photoshop/App Icon Template-assets/PNG/1 - Layer.png
+/tmp/ads_mnt/dmg.hShkY1/iOS 27 - Icon Templates - Photoshop/App Icon Template-assets/PNG/2 - Layer.png
+/tmp/ads_mnt/dmg.hShkY1/iOS 27 - Icon Templates - Photoshop/App Icon Template-assets/PNG/3 - Layer.png
+/tmp/ads_mnt/dmg.hShkY1/iOS 27 - Icon Templates - Photoshop/App Icon Template-assets/SVG
+/tmp/ads_mnt/dmg.hShkY1/iOS 27 - Icon Templates - Photoshop/App Icon Template-assets/SVG/1 - Layer.svg
+/tmp/ads_mnt/dmg.hShkY1/iOS 27 - Icon Templates - Photoshop/App Icon Template-assets/SVG/2 - Layer.svg
+/tmp/ads_mnt/dmg.hShkY1/iOS 27 - Icon Templates - Photoshop/App Icon Template-assets/SVG/3 - Layer.svg
+/tmp/ads_mnt/dmg.hShkY1/iOS 27 - Icon Templates - Photoshop/App Icon Template.psd

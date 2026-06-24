@@ -1,0 +1,59 @@
+# Contents of glyphs/Logo-Sign-in-with-Apple.dmg  (file names only — Apple Inc. property)
+# source: https://developer.apple.com/design/resources/
+
+/tmp/ads_mnt/dmg.xeZ6yc
+/tmp/ads_mnt/dmg.xeZ6yc/Apple Design Resources License.rtf
+/tmp/ads_mnt/dmg.xeZ6yc/Sign in with Apple - Left Aligned
+/tmp/ads_mnt/dmg.xeZ6yc/Sign in with Apple - Left Aligned/PDF
+/tmp/ads_mnt/dmg.xeZ6yc/Sign in with Apple - Left Aligned/PDF/Logo - SIWA - Left-aligned - Black - Large.pdf
+/tmp/ads_mnt/dmg.xeZ6yc/Sign in with Apple - Left Aligned/PDF/Logo - SIWA - Left-aligned - Black - Medium.pdf
+/tmp/ads_mnt/dmg.xeZ6yc/Sign in with Apple - Left Aligned/PDF/Logo - SIWA - Left-aligned - Black - Small.pdf
+/tmp/ads_mnt/dmg.xeZ6yc/Sign in with Apple - Left Aligned/PDF/Logo - SIWA - Left-aligned - White - Large.pdf
+/tmp/ads_mnt/dmg.xeZ6yc/Sign in with Apple - Left Aligned/PDF/Logo - SIWA - Left-aligned - White - Medium.pdf
+/tmp/ads_mnt/dmg.xeZ6yc/Sign in with Apple - Left Aligned/PDF/Logo - SIWA - Left-aligned - White - Small.pdf
+/tmp/ads_mnt/dmg.xeZ6yc/Sign in with Apple - Left Aligned/PNG
+/tmp/ads_mnt/dmg.xeZ6yc/Sign in with Apple - Left Aligned/PNG/1x
+/tmp/ads_mnt/dmg.xeZ6yc/Sign in with Apple - Left Aligned/PNG/1x/Logo - SIWA - Left-aligned - Black - Large@1x.png
+/tmp/ads_mnt/dmg.xeZ6yc/Sign in with Apple - Left Aligned/PNG/1x/Logo - SIWA - Left-aligned - Black - Medium@1x.png
+/tmp/ads_mnt/dmg.xeZ6yc/Sign in with Apple - Left Aligned/PNG/1x/Logo - SIWA - Left-aligned - Black - Small@1x.png
+/tmp/ads_mnt/dmg.xeZ6yc/Sign in with Apple - Left Aligned/PNG/1x/Logo - SIWA - Left-aligned - White - Large@1x.png
+/tmp/ads_mnt/dmg.xeZ6yc/Sign in with Apple - Left Aligned/PNG/1x/Logo - SIWA - Left-aligned - White - Medium@1x.png
+/tmp/ads_mnt/dmg.xeZ6yc/Sign in with Apple - Left Aligned/PNG/1x/Logo - SIWA - Left-aligned - White - Small@1x.png
+/tmp/ads_mnt/dmg.xeZ6yc/Sign in with Apple - Left Aligned/PNG/2x
+/tmp/ads_mnt/dmg.xeZ6yc/Sign in with Apple - Left Aligned/PNG/2x/Logo - SIWA - Left-aligned - Black - Large@2x.png
+/tmp/ads_mnt/dmg.xeZ6yc/Sign in with Apple - Left Aligned/PNG/2x/Logo - SIWA - Left-aligned - Black - Medium@2x.png
+/tmp/ads_mnt/dmg.xeZ6yc/Sign in with Apple - Left Aligned/PNG/2x/Logo - SIWA - Left-aligned - Black - Small@2x.png
+/tmp/ads_mnt/dmg.xeZ6yc/Sign in with Apple - Left Aligned/PNG/2x/Logo - SIWA - Left-aligned - White - Large@2x.png
+/tmp/ads_mnt/dmg.xeZ6yc/Sign in with Apple - Left Aligned/PNG/2x/Logo - SIWA - Left-aligned - White - Medium@2x.png
+/tmp/ads_mnt/dmg.xeZ6yc/Sign in with Apple - Left Aligned/PNG/2x/Logo - SIWA - Left-aligned - White - Small@2x.png
+/tmp/ads_mnt/dmg.xeZ6yc/Sign in with Apple - Left Aligned/PNG/3x
+/tmp/ads_mnt/dmg.xeZ6yc/Sign in with Apple - Left Aligned/PNG/3x/Logo - SIWA - Left-aligned - Black - Large@3x.png
+/tmp/ads_mnt/dmg.xeZ6yc/Sign in with Apple - Left Aligned/PNG/3x/Logo - SIWA - Left-aligned - Black - Medium@3x.png
+/tmp/ads_mnt/dmg.xeZ6yc/Sign in with Apple - Left Aligned/PNG/3x/Logo - SIWA - Left-aligned - Black - Small@3x.png
+/tmp/ads_mnt/dmg.xeZ6yc/Sign in with Apple - Left Aligned/PNG/3x/Logo - SIWA - Left-aligned - White - Large@3x.png
+/tmp/ads_mnt/dmg.xeZ6yc/Sign in with Apple - Left Aligned/PNG/3x/Logo - SIWA - Left-aligned - White - Medium@3x.png
+/tmp/ads_mnt/dmg.xeZ6yc/Sign in with Apple - Left Aligned/PNG/3x/Logo - SIWA - Left-aligned - White - Small@3x.png
+/tmp/ads_mnt/dmg.xeZ6yc/Sign in with Apple - Left Aligned/SVG
+/tmp/ads_mnt/dmg.xeZ6yc/Sign in with Apple - Left Aligned/SVG/Logo - SIWA - Left-aligned - Black - Large.svg
+/tmp/ads_mnt/dmg.xeZ6yc/Sign in with Apple - Left Aligned/SVG/Logo - SIWA - Left-aligned - Black - Medium.svg
+/tmp/ads_mnt/dmg.xeZ6yc/Sign in with Apple - Left Aligned/SVG/Logo - SIWA - Left-aligned - Black - Small.svg
+/tmp/ads_mnt/dmg.xeZ6yc/Sign in with Apple - Left Aligned/SVG/Logo - SIWA - Left-aligned - White - Large.svg
+/tmp/ads_mnt/dmg.xeZ6yc/Sign in with Apple - Left Aligned/SVG/Logo - SIWA - Left-aligned - White - Medium.svg
+/tmp/ads_mnt/dmg.xeZ6yc/Sign in with Apple - Left Aligned/SVG/Logo - SIWA - Left-aligned - White - Small.svg
+/tmp/ads_mnt/dmg.xeZ6yc/Sign in with Apple - Logo Only
+/tmp/ads_mnt/dmg.xeZ6yc/Sign in with Apple - Logo Only/PDF
+/tmp/ads_mnt/dmg.xeZ6yc/Sign in with Apple - Logo Only/PDF/Logo - SIWA - Logo-only - Black.pdf
+/tmp/ads_mnt/dmg.xeZ6yc/Sign in with Apple - Logo Only/PDF/Logo - SIWA - Logo-only - White.pdf
+/tmp/ads_mnt/dmg.xeZ6yc/Sign in with Apple - Logo Only/PNG
+/tmp/ads_mnt/dmg.xeZ6yc/Sign in with Apple - Logo Only/PNG/1x
+/tmp/ads_mnt/dmg.xeZ6yc/Sign in with Apple - Logo Only/PNG/1x/Logo - SIWA - Logo-only - Black@1x.png
+/tmp/ads_mnt/dmg.xeZ6yc/Sign in with Apple - Logo Only/PNG/1x/Logo - SIWA - Logo-only - White@1x.png
+/tmp/ads_mnt/dmg.xeZ6yc/Sign in with Apple - Logo Only/PNG/2x
+/tmp/ads_mnt/dmg.xeZ6yc/Sign in with Apple - Logo Only/PNG/2x/Logo - SIWA - Logo-only - Black@2x.png
+/tmp/ads_mnt/dmg.xeZ6yc/Sign in with Apple - Logo Only/PNG/2x/Logo - SIWA - Logo-only - White@2x.png
+/tmp/ads_mnt/dmg.xeZ6yc/Sign in with Apple - Logo Only/PNG/3x
+/tmp/ads_mnt/dmg.xeZ6yc/Sign in with Apple - Logo Only/PNG/3x/Logo - SIWA - Logo-only - Black@3x.png
+/tmp/ads_mnt/dmg.xeZ6yc/Sign in with Apple - Logo Only/PNG/3x/Logo - SIWA - Logo-only - White@3x.png
+/tmp/ads_mnt/dmg.xeZ6yc/Sign in with Apple - Logo Only/SVG
+/tmp/ads_mnt/dmg.xeZ6yc/Sign in with Apple - Logo Only/SVG/Logo - SIWA - Logo-only - Black.svg
+/tmp/ads_mnt/dmg.xeZ6yc/Sign in with Apple - Logo Only/SVG/Logo - SIWA - Logo-only - White.svg

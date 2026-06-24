@@ -1,0 +1,75 @@
+# Contents of bezels/Bezel-iPhone-17.dmg  (file names only — Apple Inc. property)
+# source: https://developer.apple.com/design/resources/
+
+/tmp/ads_mnt/dmg.uAZziC
+/tmp/ads_mnt/dmg.uAZziC/Apple Design Resources License.rtf
+/tmp/ads_mnt/dmg.uAZziC/Photoshop
+/tmp/ads_mnt/dmg.uAZziC/Photoshop/iPhone 17
+/tmp/ads_mnt/dmg.uAZziC/Photoshop/iPhone 17/iPhone 17 - Black - Landscape.psd
+/tmp/ads_mnt/dmg.uAZziC/Photoshop/iPhone 17/iPhone 17 - Black - Portrait.psd
+/tmp/ads_mnt/dmg.uAZziC/Photoshop/iPhone 17/iPhone 17 - Lavender - Landscape.psd
+/tmp/ads_mnt/dmg.uAZziC/Photoshop/iPhone 17/iPhone 17 - Lavender - Portrait.psd
+/tmp/ads_mnt/dmg.uAZziC/Photoshop/iPhone 17/iPhone 17 - Mist Blue - Landscape.psd
+/tmp/ads_mnt/dmg.uAZziC/Photoshop/iPhone 17/iPhone 17 - Mist Blue - Portrait.psd
+/tmp/ads_mnt/dmg.uAZziC/Photoshop/iPhone 17/iPhone 17 - Sage - Landscape.psd
+/tmp/ads_mnt/dmg.uAZziC/Photoshop/iPhone 17/iPhone 17 - Sage - Portrait.psd
+/tmp/ads_mnt/dmg.uAZziC/Photoshop/iPhone 17/iPhone 17 - White - Landscape.psd
+/tmp/ads_mnt/dmg.uAZziC/Photoshop/iPhone 17/iPhone 17 - White - Portrait.psd
+/tmp/ads_mnt/dmg.uAZziC/Photoshop/iPhone 17 Pro
+/tmp/ads_mnt/dmg.uAZziC/Photoshop/iPhone 17 Pro/iPhone 17 Pro - Cosmic Orange - Landscape.psd
+/tmp/ads_mnt/dmg.uAZziC/Photoshop/iPhone 17 Pro/iPhone 17 Pro - Cosmic Orange - Portrait.psd
+/tmp/ads_mnt/dmg.uAZziC/Photoshop/iPhone 17 Pro/iPhone 17 Pro - Deep Blue - Landscape.psd
+/tmp/ads_mnt/dmg.uAZziC/Photoshop/iPhone 17 Pro/iPhone 17 Pro - Deep Blue - Portrait.psd
+/tmp/ads_mnt/dmg.uAZziC/Photoshop/iPhone 17 Pro/iPhone 17 Pro - Silver - Landscape.psd
+/tmp/ads_mnt/dmg.uAZziC/Photoshop/iPhone 17 Pro/iPhone 17 Pro - Silver - Portrait.psd
+/tmp/ads_mnt/dmg.uAZziC/Photoshop/iPhone 17 Pro Max
+/tmp/ads_mnt/dmg.uAZziC/Photoshop/iPhone 17 Pro Max/iPhone 17 Pro Max - Cosmic Orange - Landscape.psd
+/tmp/ads_mnt/dmg.uAZziC/Photoshop/iPhone 17 Pro Max/iPhone 17 Pro Max - Cosmic Orange - Portrait.psd
+/tmp/ads_mnt/dmg.uAZziC/Photoshop/iPhone 17 Pro Max/iPhone 17 Pro Max - Deep Blue - Landscape.psd
+/tmp/ads_mnt/dmg.uAZziC/Photoshop/iPhone 17 Pro Max/iPhone 17 Pro Max - Deep Blue - Portrait.psd
+/tmp/ads_mnt/dmg.uAZziC/Photoshop/iPhone 17 Pro Max/iPhone 17 Pro Max - Silver - Landscape.psd
+/tmp/ads_mnt/dmg.uAZziC/Photoshop/iPhone 17 Pro Max/iPhone 17 Pro Max - Silver - Portrait.psd
+/tmp/ads_mnt/dmg.uAZziC/Photoshop/iPhone Air
+/tmp/ads_mnt/dmg.uAZziC/Photoshop/iPhone Air/iPhone Air - Cloud White - Landscape.psd
+/tmp/ads_mnt/dmg.uAZziC/Photoshop/iPhone Air/iPhone Air - Cloud White - Portrait.psd
+/tmp/ads_mnt/dmg.uAZziC/Photoshop/iPhone Air/iPhone Air - Light Gold - Landscape.psd
+/tmp/ads_mnt/dmg.uAZziC/Photoshop/iPhone Air/iPhone Air - Light Gold - Portrait.psd
+/tmp/ads_mnt/dmg.uAZziC/Photoshop/iPhone Air/iPhone Air - Sky Blue - Landscape.psd
+/tmp/ads_mnt/dmg.uAZziC/Photoshop/iPhone Air/iPhone Air - Sky Blue - Portrait.psd
+/tmp/ads_mnt/dmg.uAZziC/Photoshop/iPhone Air/iPhone Air - Space Black - Landscape.psd
+/tmp/ads_mnt/dmg.uAZziC/Photoshop/iPhone Air/iPhone Air - Space Black - Portrait.psd
+/tmp/ads_mnt/dmg.uAZziC/PNG
+/tmp/ads_mnt/dmg.uAZziC/PNG/iPhone 17
+/tmp/ads_mnt/dmg.uAZziC/PNG/iPhone 17/iPhone 17 - Black - Landscape.png
+/tmp/ads_mnt/dmg.uAZziC/PNG/iPhone 17/iPhone 17 - Black - Portrait.png
+/tmp/ads_mnt/dmg.uAZziC/PNG/iPhone 17/iPhone 17 - Lavender - Landscape.png
+/tmp/ads_mnt/dmg.uAZziC/PNG/iPhone 17/iPhone 17 - Lavender - Portrait.png
+/tmp/ads_mnt/dmg.uAZziC/PNG/iPhone 17/iPhone 17 - Mist Blue - Landscape.png
+/tmp/ads_mnt/dmg.uAZziC/PNG/iPhone 17/iPhone 17 - Mist Blue - Portrait.png
+/tmp/ads_mnt/dmg.uAZziC/PNG/iPhone 17/iPhone 17 - Sage - Landscape.png
+/tmp/ads_mnt/dmg.uAZziC/PNG/iPhone 17/iPhone 17 - Sage - Portrait.png
+/tmp/ads_mnt/dmg.uAZziC/PNG/iPhone 17/iPhone 17 - White - Landscape.png
+/tmp/ads_mnt/dmg.uAZziC/PNG/iPhone 17/iPhone 17 - White - Portrait.png
+/tmp/ads_mnt/dmg.uAZziC/PNG/iPhone 17 Pro
+/tmp/ads_mnt/dmg.uAZziC/PNG/iPhone 17 Pro/iPhone 17 Pro - Cosmic Orange - Landscape.png
+/tmp/ads_mnt/dmg.uAZziC/PNG/iPhone 17 Pro/iPhone 17 Pro - Cosmic Orange - Portrait.png
+/tmp/ads_mnt/dmg.uAZziC/PNG/iPhone 17 Pro/iPhone 17 Pro - Deep Blue - Landscape.png
+/tmp/ads_mnt/dmg.uAZziC/PNG/iPhone 17 Pro/iPhone 17 Pro - Deep Blue - Portrait.png
+/tmp/ads_mnt/dmg.uAZziC/PNG/iPhone 17 Pro/iPhone 17 Pro - Silver - Landscape.png
+/tmp/ads_mnt/dmg.uAZziC/PNG/iPhone 17 Pro/iPhone 17 Pro - Silver - Portrait.png
+/tmp/ads_mnt/dmg.uAZziC/PNG/iPhone 17 Pro Max
+/tmp/ads_mnt/dmg.uAZziC/PNG/iPhone 17 Pro Max/iPhone 17 Pro Max - Cosmic Orange - Landscape.png
+/tmp/ads_mnt/dmg.uAZziC/PNG/iPhone 17 Pro Max/iPhone 17 Pro Max - Cosmic Orange - Portrait.png
+/tmp/ads_mnt/dmg.uAZziC/PNG/iPhone 17 Pro Max/iPhone 17 Pro Max - Deep Blue - Landscape.png
+/tmp/ads_mnt/dmg.uAZziC/PNG/iPhone 17 Pro Max/iPhone 17 Pro Max - Deep Blue - Portrait.png
+/tmp/ads_mnt/dmg.uAZziC/PNG/iPhone 17 Pro Max/iPhone 17 Pro Max - Silver - Landscape.png
+/tmp/ads_mnt/dmg.uAZziC/PNG/iPhone 17 Pro Max/iPhone 17 Pro Max - Silver - Portrait.png
+/tmp/ads_mnt/dmg.uAZziC/PNG/iPhone Air
+/tmp/ads_mnt/dmg.uAZziC/PNG/iPhone Air/iPhone Air - Cloud White - Landscape.png
+/tmp/ads_mnt/dmg.uAZziC/PNG/iPhone Air/iPhone Air - Cloud White - Portrait.png
+/tmp/ads_mnt/dmg.uAZziC/PNG/iPhone Air/iPhone Air - Light Gold - Landscape.png
+/tmp/ads_mnt/dmg.uAZziC/PNG/iPhone Air/iPhone Air - Light Gold - Portrait.png
+/tmp/ads_mnt/dmg.uAZziC/PNG/iPhone Air/iPhone Air - Sky Blue - Landscape.png
+/tmp/ads_mnt/dmg.uAZziC/PNG/iPhone Air/iPhone Air - Sky Blue - Portrait.png
+/tmp/ads_mnt/dmg.uAZziC/PNG/iPhone Air/iPhone Air - Space Black - Landscape.png
+/tmp/ads_mnt/dmg.uAZziC/PNG/iPhone Air/iPhone Air - Space Black - Portrait.png

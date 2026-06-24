@@ -1,0 +1,54 @@
+# Contents of bezels/Bezel-Apple-Watch-Ultra-2-2024.dmg  (file names only — Apple Inc. property)
+# source: https://developer.apple.com/design/resources/
+
+/tmp/ads_mnt/dmg.HItuTg
+/tmp/ads_mnt/dmg.HItuTg/App Store Marketing Artwork License Agreement.rtf
+/tmp/ads_mnt/dmg.HItuTg/Photoshop
+/tmp/ads_mnt/dmg.HItuTg/Photoshop/Alpine Loop
+/tmp/ads_mnt/dmg.HItuTg/Photoshop/Alpine Loop/AW Ultra 2 - Black + Alpine Loop Dark Green.psd
+/tmp/ads_mnt/dmg.HItuTg/Photoshop/Alpine Loop/AW Ultra 2 - Black + Alpine Loop Navy.psd
+/tmp/ads_mnt/dmg.HItuTg/Photoshop/Alpine Loop/AW Ultra 2 - Black + Alpine Loop Tan.psd
+/tmp/ads_mnt/dmg.HItuTg/Photoshop/Alpine Loop/AW Ultra 2 - Natural + Alpine Loop Dark Green.psd
+/tmp/ads_mnt/dmg.HItuTg/Photoshop/Alpine Loop/AW Ultra 2 - Natural + Alpine Loop Navy.psd
+/tmp/ads_mnt/dmg.HItuTg/Photoshop/Alpine Loop/AW Ultra 2 - Natural + Alpine Loop Tan.psd
+/tmp/ads_mnt/dmg.HItuTg/Photoshop/Milanese Loop
+/tmp/ads_mnt/dmg.HItuTg/Photoshop/Milanese Loop/AW Ultra 2 - Black + Titanium Milanese Loop.psd
+/tmp/ads_mnt/dmg.HItuTg/Photoshop/Milanese Loop/AW Ultra 2 - Natural + Titanium Milanese Loop.psd
+/tmp/ads_mnt/dmg.HItuTg/Photoshop/Ocean Band
+/tmp/ads_mnt/dmg.HItuTg/Photoshop/Ocean Band/AW Ultra 2 - Black + Ocean Band Black.psd
+/tmp/ads_mnt/dmg.HItuTg/Photoshop/Ocean Band/AW Ultra 2 - Black + Ocean Band Ice Blue.psd
+/tmp/ads_mnt/dmg.HItuTg/Photoshop/Ocean Band/AW Ultra 2 - Black + Ocean Band Navy.psd
+/tmp/ads_mnt/dmg.HItuTg/Photoshop/Ocean Band/AW Ultra 2 - Natural + Ocean Band Black.psd
+/tmp/ads_mnt/dmg.HItuTg/Photoshop/Ocean Band/AW Ultra 2 - Natural + Ocean Band Ice Blue.psd
+/tmp/ads_mnt/dmg.HItuTg/Photoshop/Ocean Band/AW Ultra 2 - Natural + Ocean Band Navy.psd
+/tmp/ads_mnt/dmg.HItuTg/Photoshop/Trail Loop
+/tmp/ads_mnt/dmg.HItuTg/Photoshop/Trail Loop/AW Ultra 2 - Black + Trail Loop Black.psd
+/tmp/ads_mnt/dmg.HItuTg/Photoshop/Trail Loop/AW Ultra 2 - Black + Trail Loop Blue.psd
+/tmp/ads_mnt/dmg.HItuTg/Photoshop/Trail Loop/AW Ultra 2 - Black + Trail Loop Green.psd
+/tmp/ads_mnt/dmg.HItuTg/Photoshop/Trail Loop/AW Ultra 2 - Natural + Trail Loop Black.psd
+/tmp/ads_mnt/dmg.HItuTg/Photoshop/Trail Loop/AW Ultra 2 - Natural + Trail Loop Blue.psd
+/tmp/ads_mnt/dmg.HItuTg/Photoshop/Trail Loop/AW Ultra 2 - Natural + Trail Loop Green.psd
+/tmp/ads_mnt/dmg.HItuTg/PNG
+/tmp/ads_mnt/dmg.HItuTg/PNG/Alpine Loop
+/tmp/ads_mnt/dmg.HItuTg/PNG/Alpine Loop/AW Ultra 2 - Black + Alpine Loop Dark Green.png
+/tmp/ads_mnt/dmg.HItuTg/PNG/Alpine Loop/AW Ultra 2 - Black + Alpine Loop Navy.png
+/tmp/ads_mnt/dmg.HItuTg/PNG/Alpine Loop/AW Ultra 2 - Black + Alpine Loop Tan.png
+/tmp/ads_mnt/dmg.HItuTg/PNG/Alpine Loop/AW Ultra 2 - Natural + Alpine Loop Dark Green.png
+/tmp/ads_mnt/dmg.HItuTg/PNG/Alpine Loop/AW Ultra 2 - Natural + Alpine Loop Navy.png
+/tmp/ads_mnt/dmg.HItuTg/PNG/Alpine Loop/AW Ultra 2 - Natural + Alpine Loop Tan.png
+/tmp/ads_mnt/dmg.HItuTg/PNG/Milanese Loop
+/tmp/ads_mnt/dmg.HItuTg/PNG/Milanese Loop/AW Ultra 2 - Black + Titanium Milanese Loop.png
+/tmp/ads_mnt/dmg.HItuTg/PNG/Milanese Loop/AW Ultra 2 - Natural + Titanium Milanese Loop.png
+/tmp/ads_mnt/dmg.HItuTg/PNG/Ocean Band
+/tmp/ads_mnt/dmg.HItuTg/PNG/Ocean Band/AW Ultra 2 - Black + Ocean Band Black.png
+/tmp/ads_mnt/dmg.HItuTg/PNG/Ocean Band/AW Ultra 2 - Black + Ocean Band Ice Blue.png
+/tmp/ads_mnt/dmg.HItuTg/PNG/Ocean Band/AW Ultra 2 - Black + Ocean Band Navy.png
+/tmp/ads_mnt/dmg.HItuTg/PNG/Ocean Band/AW Ultra 2 - Natural + Ocean Band Black.png
+/tmp/ads_mnt/dmg.HItuTg/PNG/Ocean Band/AW Ultra 2 - Natural + Ocean Band Ice Blue.png
+/tmp/ads_mnt/dmg.HItuTg/PNG/Ocean Band/AW Ultra 2 - Natural + Ocean Band Navy.png
+/tmp/ads_mnt/dmg.HItuTg/PNG/Trail Loop
+/tmp/ads_mnt/dmg.HItuTg/PNG/Trail Loop/AW Ultra 2 - Black + Trail Loop Black.png
+/tmp/ads_mnt/dmg.HItuTg/PNG/Trail Loop/AW Ultra 2 - Black + Trail Loop Blue.png
+/tmp/ads_mnt/dmg.HItuTg/PNG/Trail Loop/AW Ultra 2 - Black + Trail Loop Green.png
+/tmp/ads_mnt/dmg.HItuTg/PNG/Trail Loop/AW Ultra 2 - Natural + Trail Loop Black.png
+/tmp/ads_mnt/dmg.HItuTg/PNG/Trail Loop/AW Ultra 2 - Natural + Trail Loop Blue.png

@@ -1,0 +1,23 @@
+# Contents of bezels/Bezel-iPad-Pro-(M5).dmg  (file names only — Apple Inc. property)
+# source: https://developer.apple.com/design/resources/
+
+/tmp/ads_mnt/dmg.gSSiSQ
+/tmp/ads_mnt/dmg.gSSiSQ/Apple Design Resources License.rtf
+/tmp/ads_mnt/dmg.gSSiSQ/Photoshop
+/tmp/ads_mnt/dmg.gSSiSQ/Photoshop/iPad Pro (M5) 11" - Silver - Landscape.psd
+/tmp/ads_mnt/dmg.gSSiSQ/Photoshop/iPad Pro (M5) 11" - Silver - Portrait.psd
+/tmp/ads_mnt/dmg.gSSiSQ/Photoshop/iPad Pro (M5) 11" - Space Black - Landscape.psd
+/tmp/ads_mnt/dmg.gSSiSQ/Photoshop/iPad Pro (M5) 11" - Space Black - Portrait.psd
+/tmp/ads_mnt/dmg.gSSiSQ/Photoshop/iPad Pro (M5) 13" - Silver - Landscape.psd
+/tmp/ads_mnt/dmg.gSSiSQ/Photoshop/iPad Pro (M5) 13" - Silver - Portrait.psd
+/tmp/ads_mnt/dmg.gSSiSQ/Photoshop/iPad Pro (M5) 13" - Space Black - Landscape.psd
+/tmp/ads_mnt/dmg.gSSiSQ/Photoshop/iPad Pro (M5) 13" - Space Black - Portrait.psd
+/tmp/ads_mnt/dmg.gSSiSQ/PNG
+/tmp/ads_mnt/dmg.gSSiSQ/PNG/iPad Pro (M5) 11" - Silver - Landscape.png
+/tmp/ads_mnt/dmg.gSSiSQ/PNG/iPad Pro (M5) 11" - Silver - Portrait.png
+/tmp/ads_mnt/dmg.gSSiSQ/PNG/iPad Pro (M5) 11" - Space Black - Landscape.png
+/tmp/ads_mnt/dmg.gSSiSQ/PNG/iPad Pro (M5) 11" - Space Black - Portrait.png
+/tmp/ads_mnt/dmg.gSSiSQ/PNG/iPad Pro (M5) 13" - Silver - Landscape.png
+/tmp/ads_mnt/dmg.gSSiSQ/PNG/iPad Pro (M5) 13" - Silver - Portrait.png
+/tmp/ads_mnt/dmg.gSSiSQ/PNG/iPad Pro (M5) 13" - Space Black - Landscape.png
+/tmp/ads_mnt/dmg.gSSiSQ/PNG/iPad Pro (M5) 13" - Space Black - Portrait.png

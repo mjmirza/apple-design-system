@@ -1,0 +1,5 @@
+# Contents of fonts/SF-Armenian.dmg  (file names only — Apple Inc. property)
+# source: https://developer.apple.com/design/resources/
+
+/tmp/ads_mnt/dmg.SXECOr
+/tmp/ads_mnt/dmg.SXECOr/SF Armenian Fonts.pkg
