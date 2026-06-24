@@ -11,6 +11,7 @@
 assets/
 tools/fetch.log
 tools/enumerate.log
+tools/gallery.log
 
 # macOS / editor cruft
 .DS_Store
