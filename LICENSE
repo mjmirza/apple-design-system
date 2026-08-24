@@ -1,50 +1,40 @@
-LICENSING
+OpenRoots Agent License 1.0
+===========================
 
-This repository uses two licenses for its OWN content, and neither one covers
-Apple's materials.
+Canonical text: https://openroots.org/licenses/ora/1.0/legalcode
+Plain summary:  https://openroots.org/licenses/ora/1.0
 
-1. Code (the shell scripts under tools/).
-   MIT License. Full text below.
+Effective:   2026-08-24
+Sunset Date: 2029-08-24
+Fallback:    Apache-2.0
 
-2. Documentation and catalog content (everything under catalog/ and governance/,
-   and the README).
-   Creative Commons Attribution 4.0 International (CC BY 4.0).
-   https://creativecommons.org/licenses/by/4.0/
-   You may share and adapt it, with attribution.
+This licence is one fixed text, adopted word for word. The canonical
+version lives at the address above and is never edited. A correction
+is issued as a new version and this text remains reachable permanently.
 
-NOT COVERED BY EITHER LICENSE.
-Apple Inc.'s design resources, fonts, SF Symbols, templates, glyphs, bezels,
-images, and tools are the property of Apple Inc. and its licensors. They are
-governed solely by Apple's own terms. See NOTICE and CREDITS.md. This repository
-gives Apple full credit and redistributes none of Apple's files.
+PRIOR LICENCE NOTICE
+--------------------
+This repository was previously distributed under MIT.
+That grant is irrevocable for every version released under it.
+Anyone who obtained an earlier release keeps their MIT rights
+in perpetuity. This licence governs releases from 2026-08-24 onward.
 
-NO WARRANTY, NO RESPONSIBILITY.
-This catalog gathers and organizes publicly available information for
-convenience and is provided "as is", without warranty of any kind, express or
-implied. The maintainers accept no responsibility or liability for its use,
-accuracy, or completeness, and take no responsibility for the Apple materials it
-references. Always verify against Apple's official sources before relying on
-anything here.
+SUMMARY OF TERMS
+----------------
+Root tier     Free and unconditional at or below USD 2,000,000 annual
+              revenue, and for any individual, nonprofit, school, or
+              government body. Rights equivalent in kind to MIT.
 
-==============================================================================
-MIT License (applies to the code in tools/ only)
+Canopy tier   Above the threshold, 0.5% of revenue attributable to
+              this work, capped at USD 250,000 per year. Self-reported
+              quarterly. The rate is never negotiated.
 
-Copyright (c) 2026 apple-design-system contributors
+Compute tier  AI training is not granted by either tier above. It
+              requires a separate Compute licence at every tier.
+              Human reading and search indexing are unaffected.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Sunset        On 2029-08-24 this release converts to Apache-2.0,
+              automatically, binding successors and insolvency trustees.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+The operative text is the canonical version linked above. This file is
+a pointer to it, not a substitute for it.
