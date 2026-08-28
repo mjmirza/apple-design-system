@@ -1,5 +1,7 @@
 # Apple Design System Catalog
 
+[![OpenRoots ORA 2.3](https://openroots.org/badge/ora.svg)](https://openroots.org/licenses/ora/2.3)
+
 ![Code MIT](https://img.shields.io/badge/code-MIT-informational)
 ![Docs CC BY 4.0](https://img.shields.io/badge/docs-CC%20BY%204.0-informational)
 ![Apple assets not redistributed](https://img.shields.io/badge/Apple%20assets-not%20redistributed-critical)
